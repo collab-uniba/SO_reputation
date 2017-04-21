@@ -43,7 +43,7 @@ where:
 ## WebService version
 
 ###
-API documentation is available here.
+API documentation is available [here](RESTful API Doc).
 
 ### Requirements
 *	Java 8
