@@ -43,7 +43,7 @@ where:
 ## WebService version
 
 ###
-API documentation is available [here](RESTful API Doc).
+API documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc).
 
 ### Requirements
 *	Java 8
