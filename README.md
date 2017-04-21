@@ -6,6 +6,19 @@ The script can be test online at this [address](http://ugres.di.uniba.it:9090/St
 
 Furthermore, you can use our webservice in your own app. Check the [RESTful API documentation page](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc) for more.
 
+## DISCLAIMER
+
+The extracted reputation is only an estimate (with a ~10% error). The following rules are not considered:
+
+*   _Suggested edit is accepted:_ +2 (up to +1000 total per user)
+*   _Bounty awarded to your answer:_ + full bounty amount
+*   _One of your answers is awarded a bounty automatically:_ + half of the bounty amount (see more details about how bounties work)
+*   _Example you contributed to is voted up:_ +5
+*   _Proposed change is approved:_ +2
+*   _First time an answer that cites documentation you contributed to is upvoted:_ +5
+*   _You place a bounty on a question:_ - full bounty amount
+*   _One of your posts receives 6 spam or offensive flags:_ -100
+
 ## Sequential version 
 
 ### Requirements  
