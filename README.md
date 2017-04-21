@@ -1,7 +1,7 @@
 # SO_reputation
 
 A script that computes an approximation of the reputation gained by a StackOverflow user until a give date.
-The script can be tried online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/)
+The script can be tried online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/StackOverflowReputation.jsp).
 
 ## Sequential version 
 
