@@ -1,0 +1,389 @@
+2017-04-05 10:50:59.063
+1   Jeff Atwood   25088   32004   -21.61%   2017-04-05 10:51:01.171   2017-04-05 10:51:01.515   0 days, 0 hours, 0 minutes, 0 seconds
+2   Geoff Dalgas   2004   2083   -3.79%   2017-04-05 10:51:01.516   2017-04-05 10:51:01.58   0 days, 0 hours, 0 minutes, 0 seconds
+3   Jarrod Dixon   9219   9461   -2.56%   2017-04-05 10:51:01.58   2017-04-05 10:51:01.642   0 days, 0 hours, 0 minutes, 0 seconds
+4   Joel Spolsky   19211   22901   -16.11%   2017-04-05 10:51:01.643   2017-04-05 10:51:01.701   0 days, 0 hours, 0 minutes, 0 seconds
+5   Jon Galloway   25757   28634   -10.05%   2017-04-05 10:51:01.706   2017-04-05 10:51:01.767   0 days, 0 hours, 0 minutes, 0 seconds
+8   Eggs McLaren   1   947   -99.89%   2017-04-05 10:51:01.768   2017-04-05 10:51:01.822   0 days, 0 hours, 0 minutes, 0 seconds
+9   Kevin Dente   8114   8172   -0.71%   2017-04-05 10:51:01.823   2017-04-05 10:51:01.882   0 days, 0 hours, 0 minutes, 0 seconds
+10   Sneakers O'Toole   1   101   -99.01%   2017-04-05 10:51:01.882   2017-04-05 10:51:02.036   0 days, 0 hours, 0 minutes, 0 seconds
+11   Anonymous User   1067   967   10.34%   2017-04-05 10:51:02.037   2017-04-05 10:51:02.157   0 days, 0 hours, 0 minutes, 0 seconds
+13   Chris Jester-Young   103103   106426   -3.12%   2017-04-05 10:51:02.158   2017-04-05 10:51:02.304   0 days, 0 hours, 0 minutes, 0 seconds
+16   Rodrigo Sieiro   387   388   -0.26%   2017-04-05 10:51:02.305   2017-04-05 10:51:02.415   0 days, 0 hours, 0 minutes, 0 seconds
+17   Nick Berardi   29886   31845   -6.15%   2017-04-05 10:51:02.415   2017-04-05 10:51:02.575   0 days, 0 hours, 0 minutes, 0 seconds
+19   Mads Kristiansen   567   580   -2.24%   2017-04-05 10:51:02.576   2017-04-05 10:51:02.65   0 days, 0 hours, 0 minutes, 0 seconds
+20   Tom   4654   5917   -21.35%   2017-04-05 10:51:02.65   2017-04-05 10:51:02.719   0 days, 0 hours, 0 minutes, 0 seconds
+22   maclema   6106   6154   -0.78%   2017-04-05 10:51:02.72   2017-04-05 10:51:02.82   0 days, 0 hours, 0 minutes, 0 seconds
+23   Jax   1811   1937   -6.5%   2017-04-05 10:51:02.82   2017-04-05 10:51:02.907   0 days, 0 hours, 0 minutes, 0 seconds
+24   sanmiguel   1176   1350   -12.89%   2017-04-05 10:51:02.908   2017-04-05 10:51:02.991   0 days, 0 hours, 0 minutes, 0 seconds
+25   CodingWithoutComments   7964   9704   -17.93%   2017-04-05 10:51:02.992   2017-04-05 10:51:03.067   0 days, 0 hours, 0 minutes, 0 seconds
+26   Shawn   7815   8210   -4.81%   2017-04-05 10:51:03.068   2017-04-05 10:51:03.204   0 days, 0 hours, 0 minutes, 0 seconds
+27   denny   998   1081   -7.68%   2017-04-05 10:51:03.226   2017-04-05 10:51:03.283   0 days, 0 hours, 0 minutes, 0 seconds
+29   Michael Haren   40712   43918   -7.3%   2017-04-05 10:51:03.285   2017-04-05 10:51:03.337   0 days, 0 hours, 0 minutes, 0 seconds
+30   Grant   4786   5446   -12.12%   2017-04-05 10:51:03.337   2017-04-05 10:51:03.385   0 days, 0 hours, 0 minutes, 0 seconds
+32   TimM   470   651   -27.8%   2017-04-05 10:51:03.386   2017-04-05 10:51:03.437   0 days, 0 hours, 0 minutes, 0 seconds
+33   John   9831   9828   0.03%   2017-04-05 10:51:03.438   2017-04-05 10:51:03.557   0 days, 0 hours, 0 minutes, 0 seconds
+34   Karl Seguin   8603   10771   -20.13%   2017-04-05 10:51:03.557   2017-04-05 10:51:03.63   0 days, 0 hours, 0 minutes, 0 seconds
+35   Greg Hurlman   9650   11060   -12.75%   2017-04-05 10:51:03.63   2017-04-05 10:51:03.69   0 days, 0 hours, 0 minutes, 0 seconds
+36   Pat   2835   3489   -18.74%   2017-04-05 10:51:03.69   2017-04-05 10:51:03.747   0 days, 0 hours, 0 minutes, 0 seconds
+37   Wally Lawless   2948   3227   -8.65%   2017-04-05 10:51:03.748   2017-04-05 10:51:03.812   0 days, 0 hours, 0 minutes, 0 seconds
+38   blcArmadillo   1890   1892   -0.11%   2017-04-05 10:51:03.813   2017-04-05 10:51:03.948   0 days, 0 hours, 0 minutes, 0 seconds
+39   huseyint   5604   8387   -33.18%   2017-04-05 10:51:03.948   2017-04-05 10:51:04.092   0 days, 0 hours, 0 minutes, 0 seconds
+40   Kevin   4642   6720   -30.92%   2017-04-05 10:51:04.093   2017-04-05 10:51:04.174   0 days, 0 hours, 0 minutes, 0 seconds
+41   Redbaron   504   523   -3.63%   2017-04-05 10:51:04.174   2017-04-05 10:51:04.278   0 days, 0 hours, 0 minutes, 0 seconds
+42   Coincoin   12575   13120   -4.15%   2017-04-05 10:51:04.279   2017-04-05 10:51:04.365   0 days, 0 hours, 0 minutes, 0 seconds
+43   Justin   1161   1177   -1.36%   2017-04-05 10:51:04.366   2017-04-05 10:51:04.439   0 days, 0 hours, 0 minutes, 0 seconds
+44   Tom Grochowicz   1022   1086   -5.89%   2017-04-05 10:51:04.44   2017-04-05 10:51:04.523   0 days, 0 hours, 0 minutes, 0 seconds
+45   Bob   35342   35799   -1.28%   2017-04-05 10:51:04.524   2017-04-05 10:51:04.614   0 days, 0 hours, 0 minutes, 0 seconds
+46   Sven   6403   7437   -13.9%   2017-04-05 10:51:04.615   2017-04-05 10:51:04.697   0 days, 0 hours, 0 minutes, 0 seconds
+48   Mat   2165   2572   -15.82%   2017-04-05 10:51:04.698   2017-04-05 10:51:04.781   0 days, 0 hours, 0 minutes, 0 seconds
+49   Leon Bambrick   10281   11081   -7.22%   2017-04-05 10:51:04.782   2017-04-05 10:51:04.864   0 days, 0 hours, 0 minutes, 0 seconds
+50   helloandre   5196   5837   -10.98%   2017-04-05 10:51:04.865   2017-04-05 10:51:04.951   0 days, 0 hours, 0 minutes, 0 seconds
+51   Yaakov Ellis   14107   15906   -11.31%   2017-04-05 10:51:04.952   2017-04-05 10:51:05.039   0 days, 0 hours, 0 minutes, 0 seconds
+52   saniul   455   2113   -78.47%   2017-04-05 10:51:05.04   2017-04-05 10:51:05.138   0 days, 0 hours, 0 minutes, 0 seconds
+55   Ryan Fox   3877   5229   -25.86%   2017-04-05 10:51:05.14   2017-04-05 10:51:05.3   0 days, 0 hours, 0 minutes, 0 seconds
+56   doekman   5286   5312   -0.49%   2017-04-05 10:51:05.3   2017-04-05 10:51:05.425   0 days, 0 hours, 0 minutes, 0 seconds
+57   Chad Paulson   43   43   0.0%   2017-04-05 10:51:05.426   2017-04-05 10:51:05.511   0 days, 0 hours, 0 minutes, 0 seconds
+58   cmcculloh   9518   11421   -16.66%   2017-04-05 10:51:05.512   2017-04-05 10:51:05.602   0 days, 0 hours, 0 minutes, 0 seconds
+59   saint_groceon   2418   2706   -10.64%   2017-04-05 10:51:05.602   2017-04-05 10:51:05.691   0 days, 0 hours, 0 minutes, 0 seconds
+60   Dave Ward   34674   36619   -5.31%   2017-04-05 10:51:05.691   2017-04-05 10:51:05.795   0 days, 0 hours, 0 minutes, 0 seconds
+61   Bernard   9448   10871   -13.09%   2017-04-05 10:51:05.796   2017-04-05 10:51:05.918   0 days, 0 hours, 0 minutes, 0 seconds
+62   Liron Yahdav   1787   2058   -13.17%   2017-04-05 10:51:05.919   2017-04-05 10:51:06.025   0 days, 0 hours, 0 minutes, 0 seconds
+63   JimDaniel   4095   4898   -16.39%   2017-04-05 10:51:01.171   2017-04-05 10:51:02.061   0 days, 0 hours, 0 minutes, 0 seconds
+64   t3rse   5554   5993   -7.33%   2017-04-05 10:51:02.066   2017-04-05 10:51:02.415   0 days, 0 hours, 0 minutes, 0 seconds
+67   Rex M   80745   81655   -1.11%   2017-04-05 10:51:02.421   2017-04-05 10:51:02.68   0 days, 0 hours, 0 minutes, 0 seconds
+68   Jonathan   195   197   -1.02%   2017-04-05 10:51:02.681   2017-04-05 10:51:02.899   0 days, 0 hours, 0 minutes, 0 seconds
+70   Tim Boland   4213   4216   -0.07%   2017-04-05 10:51:02.9   2017-04-05 10:51:03.11   0 days, 0 hours, 0 minutes, 0 seconds
+71   Dillie-O   16505   16971   -2.75%   2017-04-05 10:51:03.111   2017-04-05 10:51:03.313   0 days, 0 hours, 0 minutes, 0 seconds
+72   pix0r   15297   18134   -15.64%   2017-04-05 10:51:03.313   2017-04-05 10:51:03.415   0 days, 0 hours, 0 minutes, 0 seconds
+73   Joe Fontana   666   718   -7.24%   2017-04-05 10:51:03.415   2017-04-05 10:51:03.568   0 days, 0 hours, 0 minutes, 0 seconds
+75   Ryan Ahearn   3805   3884   -2.03%   2017-04-05 10:51:03.57   2017-04-05 10:51:03.709   0 days, 0 hours, 0 minutes, 0 seconds
+76   Pete   1766   2165   -18.43%   2017-04-05 10:51:03.709   2017-04-05 10:51:03.837   0 days, 0 hours, 0 minutes, 0 seconds
+77   Darren Kopp   27657   28686   -3.59%   2017-04-05 10:51:03.838   2017-04-05 10:51:04.111   0 days, 0 hours, 0 minutes, 0 seconds
+78   A Salim   359   261   37.55%   2017-04-05 10:51:04.112   2017-04-05 10:51:04.293   0 days, 0 hours, 0 minutes, 0 seconds
+79   Adam Ernst   7508   7289   3.0%   2017-04-05 10:51:04.293   2017-04-05 10:51:04.432   0 days, 0 hours, 0 minutes, 0 seconds
+80   alumb   2058   2606   -21.03%   2017-04-05 10:51:04.433   2017-04-05 10:51:04.546   0 days, 0 hours, 0 minutes, 0 seconds
+81   MattH   860   751   14.51%   2017-04-05 10:51:04.547   2017-04-05 10:51:04.695   0 days, 0 hours, 0 minutes, 0 seconds
+82   xyz   8781   9267   -5.24%   2017-04-05 10:51:04.695   2017-04-05 10:51:04.816   0 days, 0 hours, 0 minutes, 0 seconds
+83   Zack Peterson   16578   19783   -16.2%   2017-04-05 10:51:04.816   2017-04-05 10:51:04.938   0 days, 0 hours, 0 minutes, 0 seconds
+85   Paul Wicks   12247   13617   -10.06%   2017-04-05 10:51:04.94   2017-04-05 10:51:05.069   0 days, 0 hours, 0 minutes, 0 seconds
+86   svrist   3294   3438   -4.19%   2017-04-05 10:51:05.07   2017-04-05 10:51:05.285   0 days, 0 hours, 0 minutes, 0 seconds
+87   DylanJ   817   951   -14.09%   2017-04-05 10:51:05.287   2017-04-05 10:51:05.463   0 days, 0 hours, 0 minutes, 0 seconds
+88   ESRogs   1400   1401   -0.07%   2017-04-05 10:51:05.463   2017-04-05 10:51:05.594   0 days, 0 hours, 0 minutes, 0 seconds
+91   Michael Stum   64767   73849   -12.3%   2017-04-05 10:51:05.596   2017-04-05 10:51:05.737   0 days, 0 hours, 0 minutes, 0 seconds
+92   Justin Standard   9725   15430   -36.97%   2017-04-05 10:51:05.737   2017-04-05 10:51:05.883   0 days, 0 hours, 0 minutes, 0 seconds
+93   MojoFilter   4187   3857   8.56%   2017-04-05 10:51:05.884   2017-04-05 10:51:06.062   0 days, 0 hours, 0 minutes, 0 seconds
+94   Stephen R.   84   84   0.0%   2017-04-05 10:51:06.062   2017-04-05 10:51:06.231   0 days, 0 hours, 0 minutes, 0 seconds
+95   Marek Grzenkowicz   8963   9901   -9.47%   2017-04-05 10:51:06.232   2017-04-05 10:51:06.394   0 days, 0 hours, 0 minutes, 0 seconds
+96   Chris Marasti-Georg   16424   17386   -5.53%   2017-04-05 10:51:06.395   2017-04-05 10:51:06.556   0 days, 0 hours, 0 minutes, 0 seconds
+99   Jason Pratt   4246   5032   -15.62%   2017-04-05 10:51:06.559   2017-04-05 10:51:06.729   0 days, 0 hours, 0 minutes, 0 seconds
+100   Eric Haskins   3631   4264   -14.85%   2017-04-05 10:51:06.73   2017-04-05 10:51:06.926   0 days, 0 hours, 0 minutes, 0 seconds
+101   Peter Burns   17765   18434   -3.63%   2017-04-05 10:51:06.926   2017-04-05 10:51:07.077   0 days, 0 hours, 0 minutes, 0 seconds
+102   Bill   7576   7914   -4.27%   2017-04-05 10:51:07.077   2017-04-05 10:51:07.228   0 days, 0 hours, 0 minutes, 0 seconds
+103   svec   2088   2095   -0.33%   2017-04-05 10:51:07.228   2017-04-05 10:51:07.409   0 days, 0 hours, 0 minutes, 0 seconds
+104   Ted Dziuba   1009   1027   -1.75%   2017-04-05 10:51:07.409   2017-04-05 10:51:07.598   0 days, 0 hours, 0 minutes, 0 seconds
+105   Ryan Eastabrook   1325   1404   -5.63%   2017-04-05 10:51:07.598   2017-04-05 10:51:07.751   0 days, 0 hours, 0 minutes, 0 seconds
+106   EndangeredMassa   8790   9673   -9.13%   2017-04-05 10:51:07.751   2017-04-05 10:51:07.914   0 days, 0 hours, 0 minutes, 0 seconds
+107   Wilson   380   411   -7.54%   2017-04-05 10:51:07.915   2017-04-05 10:51:08.075   0 days, 0 hours, 0 minutes, 0 seconds
+108   Greg   1853   1921   -3.54%   2017-04-05 10:51:08.075   2017-04-05 10:51:08.217   0 days, 0 hours, 0 minutes, 0 seconds
+109   Kalid   5571   6420   -13.22%   2017-04-05 10:51:08.218   2017-04-05 10:51:08.421   0 days, 0 hours, 0 minutes, 0 seconds
+111   saalon   1263   1413   -10.62%   2017-04-05 10:51:08.423   2017-04-05 10:51:08.584   0 days, 0 hours, 0 minutes, 0 seconds
+112   Jesse Beder   13346   14188   -5.93%   2017-04-05 10:51:08.585   2017-04-05 10:51:08.759   0 days, 0 hours, 0 minutes, 0 seconds
+113   tlrobinson   876   962   -8.94%   2017-04-05 10:51:08.759   2017-04-05 10:51:08.896   0 days, 0 hours, 0 minutes, 0 seconds
+114   Craig Smitham   505   527   -4.17%   2017-04-05 10:51:08.896   2017-04-05 10:51:09.032   0 days, 0 hours, 0 minutes, 0 seconds
+115   UnkwnTech   19624   22642   -13.33%   2017-04-05 10:51:09.033   2017-04-05 10:51:09.186   0 days, 0 hours, 0 minutes, 0 seconds
+116   Mark Harrison   73158   80153   -8.73%   2017-04-05 10:51:09.186   2017-04-05 10:51:09.362   0 days, 0 hours, 0 minutes, 0 seconds
+117   Peter Coulton   12144   12806   -5.17%   2017-04-05 10:51:09.362   2017-04-05 10:51:09.516   0 days, 0 hours, 0 minutes, 0 seconds
+118   Brian Willis   5345   5716   -6.49%   2017-04-05 10:51:09.516   2017-04-05 10:51:09.677   0 days, 0 hours, 0 minutes, 0 seconds
+119   Jesse Ezell   31   31   0.0%   2017-04-05 10:51:09.677   2017-04-05 10:51:09.84   0 days, 0 hours, 0 minutes, 0 seconds
+120   hitec   662   824   -19.66%   2017-04-05 10:51:09.84   2017-04-05 10:51:10.024   0 days, 0 hours, 0 minutes, 0 seconds
+121   ricree   3480   5235   -33.52%   2017-04-05 10:51:10.024   2017-04-05 10:51:10.205   0 days, 0 hours, 0 minutes, 0 seconds
+122   Mike Stone   18781   21718   -13.52%   2017-04-05 10:51:10.206   2017-04-05 10:51:10.411   0 days, 0 hours, 0 minutes, 0 seconds
+123   prakash   11945   18404   -35.1%   2017-04-05 10:51:10.411   2017-04-05 10:51:10.64   0 days, 0 hours, 0 minutes, 0 seconds
+124   Daniel Broekman   2110   2011   4.92%   2017-04-05 10:51:10.64   2017-04-05 10:51:10.849   0 days, 0 hours, 0 minutes, 0 seconds
+131   Marcel Tjandraatmadja   1796   2118   -15.2%   2017-04-05 10:51:01.491   2017-04-05 10:51:02.309   0 days, 0 hours, 0 minutes, 0 seconds
+133   Luke Girvin   7206   8376   -13.97%   2017-04-05 10:51:02.311   2017-04-05 10:51:02.735   0 days, 0 hours, 0 minutes, 0 seconds
+134   Stephen Hendry   329   321   2.49%   2017-04-05 10:51:02.735   2017-04-05 10:51:03.068   0 days, 0 hours, 0 minutes, 0 seconds
+135   Rob Burke   1562   1610   -2.98%   2017-04-05 10:51:03.068   2017-04-05 10:51:03.449   0 days, 0 hours, 0 minutes, 0 seconds
+136   Michiel de Mare   14474   16308   -11.25%   2017-04-05 10:51:03.45   2017-04-05 10:51:03.661   0 days, 0 hours, 0 minutes, 0 seconds
+137   Polsonby   8707   12071   -27.87%   2017-04-05 10:51:03.661   2017-04-05 10:51:04.039   0 days, 0 hours, 0 minutes, 0 seconds
+139   bentsai   1576   1931   -18.38%   2017-04-05 10:51:04.041   2017-04-05 10:51:04.314   0 days, 0 hours, 0 minutes, 0 seconds
+140   Rufo Sanchez   375   390   -3.85%   2017-04-05 10:51:04.314   2017-04-05 10:51:04.551   0 days, 0 hours, 0 minutes, 0 seconds
+142   Lehane   7076   7171   -1.32%   2017-04-05 10:51:04.553   2017-04-05 10:51:04.784   0 days, 0 hours, 0 minutes, 0 seconds
+143   Robert Höglund   5375   5652   -4.9%   2017-04-05 10:51:04.785   2017-04-05 10:51:04.976   0 days, 0 hours, 0 minutes, 0 seconds
+144   Issac Kelly   2969   3069   -3.26%   2017-04-05 10:51:04.977   2017-04-05 10:51:05.184   0 days, 0 hours, 0 minutes, 0 seconds
+145   akdom   5969   6894   -13.42%   2017-04-05 10:51:05.185   2017-04-05 10:51:05.458   0 days, 0 hours, 0 minutes, 0 seconds
+146   Sam Schutte   2750   2982   -7.78%   2017-04-05 10:51:05.459   2017-04-05 10:51:05.649   0 days, 0 hours, 0 minutes, 0 seconds
+147   Gareth Simpson   6130   6110   0.33%   2017-04-05 10:51:05.649   2017-04-05 10:51:05.848   0 days, 0 hours, 0 minutes, 0 seconds
+148   Adrian Clark   7381   7434   -0.71%   2017-04-05 10:51:05.848   2017-04-05 10:51:06.112   0 days, 0 hours, 0 minutes, 0 seconds
+149   Rob Allen   7251   7898   -8.19%   2017-04-05 10:51:06.112   2017-04-05 10:51:06.323   0 days, 0 hours, 0 minutes, 0 seconds
+150   ESV   4193   4716   -11.09%   2017-04-05 10:51:06.324   2017-04-05 10:51:06.531   0 days, 0 hours, 0 minutes, 0 seconds
+151   Darren Greaves   1418   1492   -4.96%   2017-04-05 10:51:06.532   2017-04-05 10:51:06.79   0 days, 0 hours, 0 minutes, 0 seconds
+152   Jonesinator   1855   1860   -0.27%   2017-04-05 10:51:06.791   2017-04-05 10:51:07.007   0 days, 0 hours, 0 minutes, 0 seconds
+153   jaredg   1004   1630   -38.4%   2017-04-05 10:51:07.007   2017-04-05 10:51:07.226   0 days, 0 hours, 0 minutes, 0 seconds
+154   Matt   2053   2384   -13.88%   2017-04-05 10:51:07.227   2017-04-05 10:51:07.515   0 days, 0 hours, 0 minutes, 0 seconds
+155   garg   511   511   0.0%   2017-04-05 10:51:07.516   2017-04-05 10:51:07.796   0 days, 0 hours, 0 minutes, 0 seconds
+156   Joe Shaw   6264   6698   -6.48%   2017-04-05 10:51:07.796   2017-04-05 10:51:08.023   0 days, 0 hours, 0 minutes, 0 seconds
+157   nlucaroni   19313   22247   -13.19%   2017-04-05 10:51:08.023   2017-04-05 10:51:08.227   0 days, 0 hours, 0 minutes, 0 seconds
+159   Holtorf   591   1015   -41.77%   2017-04-05 10:51:08.23   2017-04-05 10:51:08.442   0 days, 0 hours, 0 minutes, 0 seconds
+160   Louis Salin   155   336   -53.87%   2017-04-05 10:51:08.443   2017-04-05 10:51:08.656   0 days, 0 hours, 0 minutes, 0 seconds
+161   Federico Builes   2342   1965   19.19%   2017-04-05 10:51:08.656   2017-04-05 10:51:08.869   0 days, 0 hours, 0 minutes, 0 seconds
+162   Paul G   1631   1629   0.12%   2017-04-05 10:51:08.869   2017-04-05 10:51:09.097   0 days, 0 hours, 0 minutes, 0 seconds
+163   thelsdj   3697   3408   8.48%   2017-04-05 10:51:09.098   2017-04-05 10:51:09.36   0 days, 0 hours, 0 minutes, 0 seconds
+164   John Siracusa   7922   8246   -3.93%   2017-04-05 10:51:09.361   2017-04-05 10:51:09.576   0 days, 0 hours, 0 minutes, 0 seconds
+166   Ryan Olson   903   1121   -19.45%   2017-04-05 10:51:09.578   2017-04-05 10:51:09.773   0 days, 0 hours, 0 minutes, 0 seconds
+168   Dan Wolchonok   949   951   -0.21%   2017-04-05 10:51:09.774   2017-04-05 10:51:09.982   0 days, 0 hours, 0 minutes, 0 seconds
+169   Arnold Zokas   4125   4096   0.71%   2017-04-05 10:51:09.983   2017-04-05 10:51:10.187   0 days, 0 hours, 0 minutes, 0 seconds
+170   UberAlex   1897   1942   -2.32%   2017-04-05 10:51:10.188   2017-04-05 10:51:10.423   0 days, 0 hours, 0 minutes, 0 seconds
+171   dagorym   1614   2035   -20.69%   2017-04-05 10:51:10.424   2017-04-05 10:51:10.633   0 days, 0 hours, 0 minutes, 0 seconds
+172   Bruce the Hoon   542   578   -6.23%   2017-04-05 10:51:10.634   2017-04-05 10:51:10.859   0 days, 0 hours, 0 minutes, 0 seconds
+173   Justin Walgran   390   552   -29.35%   2017-04-05 10:51:10.859   2017-04-05 10:51:11.09   0 days, 0 hours, 0 minutes, 0 seconds
+175   engtech   1469   1614   -8.98%   2017-04-05 10:51:11.091   2017-04-05 10:51:11.357   0 days, 0 hours, 0 minutes, 0 seconds
+177   Fred   1182   1083   9.14%   2017-04-05 10:51:11.359   2017-04-05 10:51:11.603   0 days, 0 hours, 0 minutes, 0 seconds
+178   steve_mtl   477   480   -0.62%   2017-04-05 10:51:11.603   2017-04-05 10:51:11.882   0 days, 0 hours, 0 minutes, 0 seconds
+179   Isaac Moses   515   588   -12.41%   2017-04-05 10:51:11.883   2017-04-05 10:51:12.096   0 days, 0 hours, 0 minutes, 0 seconds
+181   Bill   1301   1423   -8.57%   2017-04-05 10:51:12.099   2017-04-05 10:51:12.316   0 days, 0 hours, 0 minutes, 0 seconds
+183   Eric Davis   1561   1562   -0.06%   2017-04-05 10:51:12.317   2017-04-05 10:51:12.523   0 days, 0 hours, 0 minutes, 0 seconds
+184   Niyaz   14852   16717   -11.16%   2017-04-05 10:51:12.524   2017-04-05 10:51:12.783   0 days, 0 hours, 0 minutes, 0 seconds
+186   Swinders   877   1042   -15.83%   2017-04-05 10:51:12.785   2017-04-05 10:51:13.019   0 days, 0 hours, 0 minutes, 0 seconds
+188   Matthew Schinckel   15722   16208   -3.0%   2017-04-05 10:51:01.444   2017-04-05 10:51:02.347   0 days, 0 hours, 0 minutes, 0 seconds
+189   Seb   4944   5261   -6.03%   2017-04-05 10:51:02.347   2017-04-05 10:51:02.829   0 days, 0 hours, 0 minutes, 0 seconds
+190   robaker   768   815   -5.77%   2017-04-05 10:51:02.829   2017-04-05 10:51:03.333   0 days, 0 hours, 0 minutes, 0 seconds
+191   Ramesh Soni   5096   6253   -18.5%   2017-04-05 10:51:03.333   2017-04-05 10:51:03.854   0 days, 0 hours, 0 minutes, 0 seconds
+192   tags2k   12130   11496   5.51%   2017-04-05 10:51:03.854   2017-04-05 10:51:04.315   0 days, 0 hours, 0 minutes, 0 seconds
+193   Ronnie   3575   3832   -6.71%   2017-04-05 10:51:04.315   2017-04-05 10:51:04.543   0 days, 0 hours, 0 minutes, 0 seconds
+194   Adam Haile   11500   12783   -10.04%   2017-04-05 10:51:04.544   2017-04-05 10:51:04.822   0 days, 0 hours, 0 minutes, 0 seconds
+195   gil   893   831   7.46%   2017-04-05 10:51:04.823   2017-04-05 10:51:05.067   0 days, 0 hours, 0 minutes, 0 seconds
+196   Spencer   176   183   -3.83%   2017-04-05 10:51:05.067   2017-04-05 10:51:05.446   0 days, 0 hours, 0 minutes, 0 seconds
+197   Daan   3033   3435   -11.7%   2017-04-05 10:51:05.446   2017-04-05 10:51:05.67   0 days, 0 hours, 0 minutes, 0 seconds
+198   dlinsin   6456   6086   6.08%   2017-04-05 10:51:05.67   2017-04-05 10:51:05.922   0 days, 0 hours, 0 minutes, 0 seconds
+199   Brendan   6580   7803   -15.67%   2017-04-05 10:51:05.922   2017-04-05 10:51:06.184   0 days, 0 hours, 0 minutes, 0 seconds
+200   John Downey   5788   6893   -16.03%   2017-04-05 10:51:06.184   2017-04-05 10:51:06.429   0 days, 0 hours, 0 minutes, 0 seconds
+202   Christian Hagelid   3652   4908   -25.59%   2017-04-05 10:51:06.431   2017-04-05 10:51:06.734   0 days, 0 hours, 0 minutes, 0 seconds
+203   Ben Mills   3938   5579   -29.41%   2017-04-05 10:51:06.734   2017-04-05 10:51:06.96   0 days, 0 hours, 0 minutes, 0 seconds
+204   dragonmantank   4944   5426   -8.88%   2017-04-05 10:51:06.961   2017-04-05 10:51:07.197   0 days, 0 hours, 0 minutes, 0 seconds
+205   Mike Powell   2821   2973   -5.11%   2017-04-05 10:51:07.197   2017-04-05 10:51:07.501   0 days, 0 hours, 0 minutes, 0 seconds
+206   Chris Miller   2098   2564   -18.17%   2017-04-05 10:51:07.502   2017-04-05 10:51:07.733   0 days, 0 hours, 0 minutes, 0 seconds
+207   James Sulak   10391   10384   0.07%   2017-04-05 10:51:07.733   2017-04-05 10:51:07.981   0 days, 0 hours, 0 minutes, 0 seconds
+208   brad   13074   13223   -1.13%   2017-04-05 10:51:07.983   2017-04-05 10:51:08.235   0 days, 0 hours, 0 minutes, 0 seconds
+209   CVertex   7348   7504   -2.08%   2017-04-05 10:51:08.235   2017-04-05 10:51:08.5   0 days, 0 hours, 0 minutes, 0 seconds
+210   rfunduk   15215   15707   -3.13%   2017-04-05 10:51:08.5   2017-04-05 10:51:08.78   0 days, 0 hours, 0 minutes, 0 seconds
+211   jhornnes   1275   1276   -0.08%   2017-04-05 10:51:08.78   2017-04-05 10:51:09.042   0 days, 0 hours, 0 minutes, 0 seconds
+212   Mike Polen   602   3173   -81.03%   2017-04-05 10:51:09.042   2017-04-05 10:51:09.318   0 days, 0 hours, 0 minutes, 0 seconds
+214   ICR   6504   7075   -8.07%   2017-04-05 10:51:09.32   2017-04-05 10:51:09.565   0 days, 0 hours, 0 minutes, 0 seconds
+216   Joey deVilla   4134   4597   -10.07%   2017-04-05 10:51:09.567   2017-04-05 10:51:09.829   0 days, 0 hours, 0 minutes, 0 seconds
+217   Jonathan Rauch   156   411   -62.04%   2017-04-05 10:51:09.83   2017-04-05 10:51:10.065   0 days, 0 hours, 0 minutes, 0 seconds
+219   Rudd Zwolinski   7227   7052   2.48%   2017-04-05 10:51:10.067   2017-04-05 10:51:10.292   0 days, 0 hours, 0 minutes, 0 seconds
+223   David Pokluda   3801   4364   -12.9%   2017-04-05 10:51:10.298   2017-04-05 10:51:10.571   0 days, 0 hours, 0 minutes, 0 seconds
+224   vzczc   4421   5034   -12.18%   2017-04-05 10:51:10.572   2017-04-05 10:51:10.856   0 days, 0 hours, 0 minutes, 0 seconds
+225   brendan   14886   15362   -3.1%   2017-04-05 10:51:10.856   2017-04-05 10:51:11.122   0 days, 0 hours, 0 minutes, 0 seconds
+227   Ishmaeel   6844   7855   -12.87%   2017-04-05 10:51:11.124   2017-04-05 10:51:11.369   0 days, 0 hours, 0 minutes, 0 seconds
+229   Brian Jorgensen   740   640   15.63%   2017-04-05 10:51:11.371   2017-04-05 10:51:11.659   0 days, 0 hours, 0 minutes, 0 seconds
+230   Dan   8160   12338   -33.86%   2017-04-05 10:51:11.659   2017-04-05 10:51:11.975   0 days, 0 hours, 0 minutes, 0 seconds
+231   FryHard   3880   4157   -6.66%   2017-04-05 10:51:11.975   2017-04-05 10:51:12.262   0 days, 0 hours, 0 minutes, 0 seconds
+232   Matt Dawdy   5249   5554   -5.49%   2017-04-05 10:51:12.262   2017-04-05 10:51:12.517   0 days, 0 hours, 0 minutes, 0 seconds
+233   Ray   21918   22695   -3.42%   2017-04-05 10:51:12.518   2017-04-05 10:51:12.784   0 days, 0 hours, 0 minutes, 0 seconds
+234   Orion Edwards   53102   56057   -5.27%   2017-04-05 10:51:12.784   2017-04-05 10:51:13.02   0 days, 0 hours, 0 minutes, 0 seconds
+235   Joshua McKinnon   12622   12912   -2.25%   2017-04-05 10:51:13.02   2017-04-05 10:51:13.27   0 days, 0 hours, 0 minutes, 0 seconds
+236   sachin   426   430   -0.93%   2017-04-05 10:51:13.271   2017-04-05 10:51:13.566   0 days, 0 hours, 0 minutes, 0 seconds
+237   yoliho   87   340   -74.41%   2017-04-05 10:51:13.567   2017-04-05 10:51:13.862   0 days, 0 hours, 0 minutes, 0 seconds
+238   Pat   16373   19221   -14.82%   2017-04-05 10:51:13.863   2017-04-05 10:51:14.253   0 days, 0 hours, 0 minutes, 0 seconds
+242   David HAust   2102   2801   -24.96%   2017-04-05 10:51:14.263   2017-04-05 10:51:14.625   0 days, 0 hours, 0 minutes, 0 seconds
+243   Goyuix   10052   9986   0.66%   2017-04-05 10:51:14.625   2017-04-05 10:51:14.891   0 days, 0 hours, 0 minutes, 0 seconds
+244   Shadow_x99   10424   10861   -4.02%   2017-04-05 10:51:14.891   2017-04-05 10:51:15.175   0 days, 0 hours, 0 minutes, 0 seconds
+245   Michael Pryor   11903   11373   4.66%   2017-04-05 10:51:15.175   2017-04-05 10:51:15.458   0 days, 0 hours, 0 minutes, 0 seconds
+246   rjohnston   2475   2515   -1.59%   2017-04-05 10:51:15.458   2017-04-05 10:51:15.868   0 days, 0 hours, 0 minutes, 0 seconds
+247   Shawn Miller   3684   4008   -8.08%   2017-04-05 10:51:15.868   2017-04-05 10:51:16.202   0 days, 0 hours, 0 minutes, 0 seconds
+253   Scott Cowan   1456   1584   -8.08%   2017-04-05 10:51:01.489   2017-04-05 10:51:02.546   0 days, 0 hours, 0 minutes, 1 seconds
+254   user254   672   672   0.0%   2017-04-05 10:51:02.546   2017-04-05 10:51:03.038   0 days, 0 hours, 0 minutes, 0 seconds
+255   Jim McKeeth   18757   22952   -18.28%   2017-04-05 10:51:03.038   2017-04-05 10:51:03.508   0 days, 0 hours, 0 minutes, 0 seconds
+257   Josh   3853   4422   -12.87%   2017-04-05 10:51:03.511   2017-04-05 10:51:04.058   0 days, 0 hours, 0 minutes, 0 seconds
+258   Anthony Main   2495   2371   5.23%   2017-04-05 10:51:04.058   2017-04-05 10:51:04.443   0 days, 0 hours, 0 minutes, 0 seconds
+259   David Sykes   9617   9879   -2.65%   2017-04-05 10:51:04.443   2017-04-05 10:51:04.754   0 days, 0 hours, 0 minutes, 0 seconds
+260   gyurisc   3437   4360   -21.17%   2017-04-05 10:51:04.757   2017-04-05 10:51:05.042   0 days, 0 hours, 0 minutes, 0 seconds
+261   Mattias   1021   1068   -4.4%   2017-04-05 10:51:05.042   2017-04-05 10:51:05.457   0 days, 0 hours, 0 minutes, 0 seconds
+263   Mark   197   251   -21.51%   2017-04-05 10:51:05.459   2017-04-05 10:51:05.755   0 days, 0 hours, 0 minutes, 0 seconds
+264   Xenph Yan   20335   21653   -6.09%   2017-04-05 10:51:05.756   2017-04-05 10:51:06.122   0 days, 0 hours, 0 minutes, 0 seconds
+265   Lauren   1052   1106   -4.88%   2017-04-05 10:51:06.122   2017-04-05 10:51:06.41   0 days, 0 hours, 0 minutes, 0 seconds
+266   Rytmis   15133   16288   -7.09%   2017-04-05 10:51:06.41   2017-04-05 10:51:06.747   0 days, 0 hours, 0 minutes, 0 seconds
+267   Lasse V. Karlsen   151602   154139   -1.65%   2017-04-05 10:51:06.747   2017-04-05 10:51:07.085   0 days, 0 hours, 0 minutes, 0 seconds
+268   Vincent Robert   15016   16933   -11.32%   2017-04-05 10:51:07.086   2017-04-05 10:51:07.502   0 days, 0 hours, 0 minutes, 0 seconds
+269   sparkes   7611   10447   -27.15%   2017-04-05 10:51:07.502   2017-04-05 10:51:07.873   0 days, 0 hours, 0 minutes, 0 seconds
+270   roryf   14375   14850   -3.2%   2017-04-05 10:51:07.873   2017-04-05 10:51:08.218   0 days, 0 hours, 0 minutes, 0 seconds
+271   Justin Bennett   2016   2598   -22.4%   2017-04-05 10:51:08.218   2017-04-05 10:51:08.563   0 days, 0 hours, 0 minutes, 0 seconds
+272   Sven   18   28   -35.71%   2017-04-05 10:51:08.563   2017-04-05 10:51:08.919   0 days, 0 hours, 0 minutes, 0 seconds
+273   Henrik Bierbum Bacher   57   67   -14.93%   2017-04-05 10:51:08.92   2017-04-05 10:51:09.284   0 days, 0 hours, 0 minutes, 0 seconds
+274   Xetius   10634   11085   -4.07%   2017-04-05 10:51:09.285   2017-04-05 10:51:09.621   0 days, 0 hours, 0 minutes, 0 seconds
+275   lubos hasko   12620   13913   -9.29%   2017-04-05 10:51:09.621   2017-04-05 10:51:10.003   0 days, 0 hours, 0 minutes, 0 seconds
+276   Erik Öjebo   5864   6947   -15.59%   2017-04-05 10:51:10.004   2017-04-05 10:51:10.307   0 days, 0 hours, 0 minutes, 0 seconds
+277   kaybenleroll   3854   4232   -8.93%   2017-04-05 10:51:10.307   2017-04-05 10:51:10.764   0 days, 0 hours, 0 minutes, 0 seconds
+278   Lea Cohen   2806   2772   1.23%   2017-04-05 10:51:10.764   2017-04-05 10:51:11.119   0 days, 0 hours, 0 minutes, 0 seconds
+279   John with waffle   2201   3490   -36.93%   2017-04-05 10:51:11.12   2017-04-05 10:51:11.464   0 days, 0 hours, 0 minutes, 0 seconds
+280   bgoncalves   551   650   -15.23%   2017-04-05 10:51:11.464   2017-04-05 10:51:11.872   0 days, 0 hours, 0 minutes, 0 seconds
+281   Caleb Elston   140   148   -5.41%   2017-04-05 10:51:11.872   2017-04-05 10:51:12.25   0 days, 0 hours, 0 minutes, 0 seconds
+282   Bert Lamb   1241   1445   -14.12%   2017-04-05 10:51:12.251   2017-04-05 10:51:12.569   0 days, 0 hours, 0 minutes, 0 seconds
+283   Rich Reuter   536   537   -0.19%   2017-04-05 10:51:12.569   2017-04-05 10:51:12.943   0 days, 0 hours, 0 minutes, 0 seconds
+285   sestocker   1264   1825   -30.74%   2017-04-05 10:51:12.947   2017-04-05 10:51:13.329   0 days, 0 hours, 0 minutes, 0 seconds
+287   basszero   13326   14885   -10.47%   2017-04-05 10:51:13.335   2017-04-05 10:51:13.63   0 days, 0 hours, 0 minutes, 0 seconds
+288   Haydar   610   704   -13.35%   2017-04-05 10:51:13.63   2017-04-05 10:51:13.967   0 days, 0 hours, 0 minutes, 0 seconds
+289   Chris Leon   311   311   0.0%   2017-04-05 10:51:13.967   2017-04-05 10:51:14.321   0 days, 0 hours, 0 minutes, 0 seconds
+291   The How-To Geek   603   703   -14.22%   2017-04-05 10:51:14.324   2017-04-05 10:51:14.68   0 days, 0 hours, 0 minutes, 0 seconds
+292   shsteimer   8105   9014   -10.08%   2017-04-05 10:51:14.68   2017-04-05 10:51:15.032   0 days, 0 hours, 0 minutes, 0 seconds
+293   miya   531   533   -0.38%   2017-04-05 10:51:15.032   2017-04-05 10:51:15.368   0 days, 0 hours, 0 minutes, 0 seconds
+295   benjaminperdomo   10   11   -9.09%   2017-04-05 10:51:15.371   2017-04-05 10:51:15.729   0 days, 0 hours, 0 minutes, 0 seconds
+296   jdecuyper   2492   2705   -7.87%   2017-04-05 10:51:15.729   2017-04-05 10:51:16.107   0 days, 0 hours, 0 minutes, 0 seconds
+298   Riri   3918   4055   -3.38%   2017-04-05 10:51:16.11   2017-04-05 10:51:16.403   0 days, 0 hours, 0 minutes, 0 seconds
+299   Bryan Roth   3184   3732   -14.68%   2017-04-05 10:51:16.403   2017-04-05 10:51:16.743   0 days, 0 hours, 0 minutes, 0 seconds
+300   Don Dickinson   4072   4253   -4.26%   2017-04-05 10:51:16.743   2017-04-05 10:51:17.056   0 days, 0 hours, 0 minutes, 0 seconds
+302   Jake McGraw   16665   17039   -2.19%   2017-04-05 10:51:17.058   2017-04-05 10:51:17.384   0 days, 0 hours, 0 minutes, 0 seconds
+303   NotMyself   7608   7717   -1.41%   2017-04-05 10:51:17.384   2017-04-05 10:51:17.809   0 days, 0 hours, 0 minutes, 0 seconds
+304   McDowell   59184   64384   -8.08%   2017-04-05 10:51:17.809   2017-04-05 10:51:18.128   0 days, 0 hours, 0 minutes, 0 seconds
+305   Mark Biek   40025   43286   -7.53%   2017-04-05 10:51:18.129   2017-04-05 10:51:18.465   0 days, 0 hours, 0 minutes, 0 seconds
+306   num1   1633   1775   -8.0%   2017-04-05 10:51:18.465   2017-04-05 10:51:18.805   0 days, 0 hours, 0 minutes, 0 seconds
+307   Brett Veenstra   9312   10588   -12.05%   2017-04-05 10:51:18.805   2017-04-05 10:51:19.118   0 days, 0 hours, 0 minutes, 0 seconds
+308   Brad Tutterow   4279   5658   -24.37%   2017-04-05 10:51:19.118   2017-04-05 10:51:19.456   0 days, 0 hours, 0 minutes, 0 seconds
+311   Bruce Alderman   1345   1619   -16.92%   2017-04-05 10:51:01.173   2017-04-05 10:51:03.035   0 days, 0 hours, 0 minutes, 1 seconds
+312   palehorse   8127   8491   -4.29%   2017-04-05 10:51:03.035   2017-04-05 10:51:03.615   0 days, 0 hours, 0 minutes, 0 seconds
+313   caryden   4464   4335   2.98%   2017-04-05 10:51:03.615   2017-04-05 10:51:04.243   0 days, 0 hours, 0 minutes, 0 seconds
+314   Uberfuzzy   2542   2642   -3.79%   2017-04-05 10:51:04.244   2017-04-05 10:51:04.644   0 days, 0 hours, 0 minutes, 0 seconds
+315   Tokabi   415   840   -50.6%   2017-04-05 10:51:04.645   2017-04-05 10:51:05.05   0 days, 0 hours, 0 minutes, 0 seconds
+316   Daniel F. Hanson   3174   3258   -2.58%   2017-04-05 10:51:05.051   2017-04-05 10:51:05.559   0 days, 0 hours, 0 minutes, 0 seconds
+317   Joseph Sturtevant   6553   6752   -2.95%   2017-04-05 10:51:05.559   2017-04-05 10:51:05.997   0 days, 0 hours, 0 minutes, 0 seconds
+318   karlgrz   3326   3678   -9.57%   2017-04-05 10:51:05.997   2017-04-05 10:51:06.378   0 days, 0 hours, 0 minutes, 0 seconds
+319   Binarytales   1028   1165   -11.76%   2017-04-05 10:51:06.379   2017-04-05 10:51:06.83   0 days, 0 hours, 0 minutes, 0 seconds
+320   Brian   13915   13921   -0.04%   2017-04-05 10:51:06.83   2017-04-05 10:51:07.221   0 days, 0 hours, 0 minutes, 0 seconds
+322   Chris Smith   6052   7659   -20.98%   2017-04-05 10:51:07.224   2017-04-05 10:51:07.7   0 days, 0 hours, 0 minutes, 0 seconds
+323   dibson   116   116   0.0%   2017-04-05 10:51:07.701   2017-04-05 10:51:08.078   0 days, 0 hours, 0 minutes, 0 seconds
+324   adeel825   1539   1551   -0.77%   2017-04-05 10:51:08.078   2017-04-05 10:51:08.46   0 days, 0 hours, 0 minutes, 0 seconds
+326   Ian Robinson   8446   9071   -6.89%   2017-04-05 10:51:08.464   2017-04-05 10:51:08.86   0 days, 0 hours, 0 minutes, 0 seconds
+327   Luke   6302   6742   -6.53%   2017-04-05 10:51:08.861   2017-04-05 10:51:09.277   0 days, 0 hours, 0 minutes, 0 seconds
+328   fastcall   872   904   -3.54%   2017-04-05 10:51:09.278   2017-04-05 10:51:09.675   0 days, 0 hours, 0 minutes, 0 seconds
+331   jasonjwwilliams   903   964   -6.33%   2017-04-05 10:51:09.681   2017-04-05 10:51:10.123   0 days, 0 hours, 0 minutes, 0 seconds
+332   Wedge   11262   12114   -7.03%   2017-04-05 10:51:10.123   2017-04-05 10:51:10.582   0 days, 0 hours, 0 minutes, 0 seconds
+333   Edward Luong   106   108   -1.85%   2017-04-05 10:51:10.582   2017-04-05 10:51:11.057   0 days, 0 hours, 0 minutes, 0 seconds
+337   Larsenal   18054   17634   2.38%   2017-04-05 10:51:11.07   2017-04-05 10:51:11.496   0 days, 0 hours, 0 minutes, 0 seconds
+338   Frank Krueger   28255   28291   -0.13%   2017-04-05 10:51:11.496   2017-04-05 10:51:11.941   0 days, 0 hours, 0 minutes, 0 seconds
+339   reconbot   1695   1679   0.95%   2017-04-05 10:51:11.941   2017-04-05 10:51:12.34   0 days, 0 hours, 0 minutes, 0 seconds
+340   Anton   3495   3600   -2.92%   2017-04-05 10:51:12.34   2017-04-05 10:51:12.735   0 days, 0 hours, 0 minutes, 0 seconds
+341   Christian Lescuyer   8105   8975   -9.69%   2017-04-05 10:51:12.736   2017-04-05 10:51:13.107   0 days, 0 hours, 0 minutes, 0 seconds
+342   graham.reeds   8601   9466   -9.14%   2017-04-05 10:51:13.107   2017-04-05 10:51:13.549   0 days, 0 hours, 0 minutes, 0 seconds
+343   Jon Tackabury   11462   11265   1.75%   2017-04-05 10:51:13.55   2017-04-05 10:51:13.956   0 days, 0 hours, 0 minutes, 0 seconds
+346   dwj   1818   2014   -9.73%   2017-04-05 10:51:13.962   2017-04-05 10:51:14.382   0 days, 0 hours, 0 minutes, 0 seconds
+349   Edo   956   861   11.03%   2017-04-05 10:51:14.388   2017-04-05 10:51:14.839   0 days, 0 hours, 0 minutes, 0 seconds
+350   csmba   1804   2465   -26.82%   2017-04-05 10:51:14.839   2017-04-05 10:51:15.241   0 days, 0 hours, 0 minutes, 0 seconds
+352   user352   123   402   -69.4%   2017-04-05 10:51:15.244   2017-04-05 10:51:15.665   0 days, 0 hours, 0 minutes, 0 seconds
+353   HokeyWhiteBoy   19   59   -67.8%   2017-04-05 10:51:15.665   2017-04-05 10:51:16.1   0 days, 0 hours, 0 minutes, 0 seconds
+354   schmidty   737   743   -0.81%   2017-04-05 10:51:16.1   2017-04-05 10:51:16.494   0 days, 0 hours, 0 minutes, 0 seconds
+355   henrym   1543   1546   -0.19%   2017-04-05 10:51:16.494   2017-04-05 10:51:16.853   0 days, 0 hours, 0 minutes, 0 seconds
+356   Dinah   15202   16020   -5.11%   2017-04-05 10:51:16.853   2017-04-05 10:51:17.222   0 days, 0 hours, 0 minutes, 0 seconds
+357   Terrapin   14229   15799   -9.94%   2017-04-05 10:51:17.222   2017-04-05 10:51:17.718   0 days, 0 hours, 0 minutes, 0 seconds
+358   Wolfbyte   9719   11555   -15.89%   2017-04-05 10:51:17.718   2017-04-05 10:51:18.069   0 days, 0 hours, 0 minutes, 0 seconds
+359   CTKeane   496   530   -6.42%   2017-04-05 10:51:18.07   2017-04-05 10:51:18.45   0 days, 0 hours, 0 minutes, 0 seconds
+360   Stephen Pellicer   819   858   -4.55%   2017-04-05 10:51:18.451   2017-04-05 10:51:18.866   0 days, 0 hours, 0 minutes, 0 seconds
+361   stimms   14975   15321   -2.26%   2017-04-05 10:51:18.866   2017-04-05 10:51:19.217   0 days, 0 hours, 0 minutes, 0 seconds
+362   agweber   329   445   -26.07%   2017-04-05 10:51:19.218   2017-04-05 10:51:19.603   0 days, 0 hours, 0 minutes, 0 seconds
+363   Patrick Johnmeyer   6193   6207   -0.23%   2017-04-05 10:51:19.604   2017-04-05 10:51:19.965   0 days, 0 hours, 0 minutes, 0 seconds
+364   Matt Mitchell   16758   17175   -2.43%   2017-04-05 10:51:19.966   2017-04-05 10:51:20.348   0 days, 0 hours, 0 minutes, 0 seconds
+366   littlecharva   1475   1551   -4.9%   2017-04-05 10:51:20.351   2017-04-05 10:51:20.757   0 days, 0 hours, 0 minutes, 0 seconds
+369   Blorgbeard   36203   40998   -11.7%   2017-04-05 10:51:20.762   2017-04-05 10:51:21.121   0 days, 0 hours, 0 minutes, 0 seconds
+370   DShook   5342   5572   -4.13%   2017-04-05 10:51:21.121   2017-04-05 10:51:21.532   0 days, 0 hours, 0 minutes, 0 seconds
+371   Dave Anderson   5157   5221   -1.23%   2017-04-05 10:51:21.532   2017-04-05 10:51:21.946   0 days, 0 hours, 0 minutes, 0 seconds
+372   Jon Limjap   42790   47629   -10.16%   2017-04-05 10:51:21.947   2017-04-05 10:51:22.347   0 days, 0 hours, 0 minutes, 0 seconds
+373   urini   7876   8617   -8.6%   2017-04-05 10:51:01.174   2017-04-05 10:51:02.892   0 days, 0 hours, 0 minutes, 1 seconds
+375   Danny Whitt   473   855   -44.68%   2017-04-05 10:51:02.896   2017-04-05 10:51:03.573   0 days, 0 hours, 0 minutes, 0 seconds
+376   davewasthere   2193   2218   -1.13%   2017-04-05 10:51:03.573   2017-04-05 10:51:04.248   0 days, 0 hours, 0 minutes, 0 seconds
+377   ZombieSheep   18554   19417   -4.44%   2017-04-05 10:51:04.249   2017-04-05 10:51:04.736   0 days, 0 hours, 0 minutes, 0 seconds
+378   Krishna Gopalakrishnan   193   352   -45.17%   2017-04-05 10:51:04.736   2017-04-05 10:51:05.209   0 days, 0 hours, 0 minutes, 0 seconds
+379   geocoin   445   580   -23.28%   2017-04-05 10:51:05.21   2017-04-05 10:51:05.706   0 days, 0 hours, 0 minutes, 0 seconds
+380   Vaibhav   4904   7334   -33.13%   2017-04-05 10:51:05.706   2017-04-05 10:51:06.162   0 days, 0 hours, 0 minutes, 0 seconds
+381   David   2786   7299   -61.83%   2017-04-05 10:51:06.163   2017-04-05 10:51:06.636   0 days, 0 hours, 0 minutes, 0 seconds
+382   skfd   487   493   -1.22%   2017-04-05 10:51:06.637   2017-04-05 10:51:07.147   0 days, 0 hours, 0 minutes, 0 seconds
+383   GateKiller   19030   19623   -3.02%   2017-04-05 10:51:07.148   2017-04-05 10:51:07.712   0 days, 0 hours, 0 minutes, 0 seconds
+384   Adhip Gupta   2535   3032   -16.39%   2017-04-05 10:51:07.713   2017-04-05 10:51:08.156   0 days, 0 hours, 0 minutes, 0 seconds
+389   jake   718   967   -25.75%   2017-04-05 10:51:08.168   2017-04-05 10:51:08.617   0 days, 0 hours, 0 minutes, 0 seconds
+390   Antonio Haley   2466   2628   -6.16%   2017-04-05 10:51:08.618   2017-04-05 10:51:09.021   0 days, 0 hours, 0 minutes, 0 seconds
+391   Paul   559   560   -0.18%   2017-04-05 10:51:09.021   2017-04-05 10:51:09.436   0 days, 0 hours, 0 minutes, 0 seconds
+392   Dan Herbert   37544   39425   -4.77%   2017-04-05 10:51:09.436   2017-04-05 10:51:10.01   0 days, 0 hours, 0 minutes, 0 seconds
+394   PabloG   9292   9676   -3.97%   2017-04-05 10:51:10.013   2017-04-05 10:51:10.429   0 days, 0 hours, 0 minutes, 0 seconds
+395   qrush   753   693   8.66%   2017-04-05 10:51:10.43   2017-04-05 10:51:10.912   0 days, 0 hours, 0 minutes, 0 seconds
+396   Bryan Denny   12381   13195   -6.17%   2017-04-05 10:51:10.913   2017-04-05 10:51:11.349   0 days, 0 hours, 0 minutes, 0 seconds
+398   Tarks   743   1819   -59.15%   2017-04-05 10:51:11.352   2017-04-05 10:51:11.926   0 days, 0 hours, 0 minutes, 0 seconds
+399   titanous   1436   1671   -14.06%   2017-04-05 10:51:11.926   2017-04-05 10:51:12.419   0 days, 0 hours, 0 minutes, 0 seconds
+400   dustinupdyke   2   348   -99.43%   2017-04-05 10:51:12.419   2017-04-05 10:51:12.88   0 days, 0 hours, 0 minutes, 0 seconds
+402   Steve Willard   6619   6240   6.07%   2017-04-05 10:51:12.885   2017-04-05 10:51:13.292   0 days, 0 hours, 0 minutes, 0 seconds
+403   elgrego   182   182   0.0%   2017-04-05 10:51:13.293   2017-04-05 10:51:13.713   0 days, 0 hours, 0 minutes, 0 seconds
+404   Chris Farmer   7833   10853   -27.83%   2017-04-05 10:51:13.713   2017-04-05 10:51:14.217   0 days, 0 hours, 0 minutes, 0 seconds
+406   Mark Norgren   98   907   -89.2%   2017-04-05 10:51:14.221   2017-04-05 10:51:14.7   0 days, 0 hours, 0 minutes, 0 seconds
+407   Grant   160   190   -15.79%   2017-04-05 10:51:14.7   2017-04-05 10:51:15.145   0 days, 0 hours, 0 minutes, 0 seconds
+409   Brian Deacon   4211   4345   -3.08%   2017-04-05 10:51:15.148   2017-04-05 10:51:15.647   0 days, 0 hours, 0 minutes, 0 seconds
+410   cynicalman   3387   4441   -23.73%   2017-04-05 10:51:15.648   2017-04-05 10:51:16.128   0 days, 0 hours, 0 minutes, 0 seconds
+411   Calvin.Allen   1640   1841   -10.92%   2017-04-05 10:51:16.128   2017-04-05 10:51:16.601   0 days, 0 hours, 0 minutes, 0 seconds
+412   somas1   384   636   -39.62%   2017-04-05 10:51:16.601   2017-04-05 10:51:17.04   0 days, 0 hours, 0 minutes, 0 seconds
+414   Stu   8007   8235   -2.77%   2017-04-05 10:51:17.043   2017-04-05 10:51:17.616   0 days, 0 hours, 0 minutes, 0 seconds
+415   Steve Tranby   2560   3804   -32.7%   2017-04-05 10:51:17.616   2017-04-05 10:51:18.039   0 days, 0 hours, 0 minutes, 0 seconds
+416   Daniel   473   509   -7.07%   2017-04-05 10:51:18.04   2017-04-05 10:51:18.45   0 days, 0 hours, 0 minutes, 0 seconds
+417   y0mbo   1866   2288   -18.44%   2017-04-05 10:51:18.45   2017-04-05 10:51:18.904   0 days, 0 hours, 0 minutes, 0 seconds
+418   dsteinweg   766   768   -0.26%   2017-04-05 10:51:18.904   2017-04-05 10:51:19.313   0 days, 0 hours, 0 minutes, 0 seconds
+419   Kev   57235   62359   -8.22%   2017-04-05 10:51:19.313   2017-04-05 10:51:19.728   0 days, 0 hours, 0 minutes, 0 seconds
+420   Alex   1575   1474   6.85%   2017-04-05 10:51:19.728   2017-04-05 10:51:20.159   0 days, 0 hours, 0 minutes, 0 seconds
+422   Chris Bunch   26186   26900   -2.65%   2017-04-05 10:51:20.162   2017-04-05 10:51:20.571   0 days, 0 hours, 0 minutes, 0 seconds
+423   bcwood   3052   3640   -16.15%   2017-04-05 10:51:20.572   2017-04-05 10:51:20.99   0 days, 0 hours, 0 minutes, 0 seconds
+424   Friend Of George   332   359   -7.52%   2017-04-05 10:51:20.99   2017-04-05 10:51:21.412   0 days, 0 hours, 0 minutes, 0 seconds
+425   Owen   2886   3016   -4.31%   2017-04-05 10:51:21.412   2017-04-05 10:51:21.798   0 days, 0 hours, 0 minutes, 0 seconds
+426   boost   3845   3241   18.64%   2017-04-05 10:51:21.799   2017-04-05 10:51:22.199   0 days, 0 hours, 0 minutes, 0 seconds
+428   Sam   1863   2020   -7.77%   2017-04-05 10:51:22.202   2017-04-05 10:51:22.592   0 days, 0 hours, 0 minutes, 0 seconds
+429   Patrick   18679   21276   -12.21%   2017-04-05 10:51:22.592   2017-04-05 10:51:22.981   0 days, 0 hours, 0 minutes, 0 seconds
+430   jj33   3543   3968   -10.71%   2017-04-05 10:51:22.981   2017-04-05 10:51:23.385   0 days, 0 hours, 0 minutes, 0 seconds
+431   Mario Marinato -br-   2785   3023   -7.87%   2017-04-05 10:51:23.385   2017-04-05 10:51:23.787   0 days, 0 hours, 0 minutes, 0 seconds
+432   andrewrk   5702   7026   -18.84%   2017-04-05 10:51:23.787   2017-04-05 10:51:24.178   0 days, 0 hours, 0 minutes, 0 seconds
+434   Nathan Bedford   3267   3271   -0.12%   2017-04-05 10:51:24.181   2017-04-05 10:51:24.563   0 days, 0 hours, 0 minutes, 0 seconds
+435   TiTi   118   188   -37.23%   2017-04-05 10:51:01.174   2017-04-05 10:51:03.041   0 days, 0 hours, 0 minutes, 1 seconds
+437   Patrick McElhaney   17595   22618   -22.21%   2017-04-05 10:51:03.045   2017-04-05 10:51:04.047   0 days, 0 hours, 0 minutes, 1 seconds
+438   jdelator   1185   1349   -12.16%   2017-04-05 10:51:04.047   2017-04-05 10:51:04.637   0 days, 0 hours, 0 minutes, 0 seconds
+439   KP.   1057   1187   -10.95%   2017-04-05 10:51:04.638   2017-04-05 10:51:05.167   0 days, 0 hours, 0 minutes, 0 seconds
+440   PixelRobot   55   55   0.0%   2017-04-05 10:51:05.168   2017-04-05 10:51:05.782   0 days, 0 hours, 0 minutes, 0 seconds
+441   Peter Hession   185   186   -0.54%   2017-04-05 10:51:05.783   2017-04-05 10:51:06.279   0 days, 0 hours, 0 minutes, 0 seconds
+443   PaulStock   4906   4889   0.35%   2017-04-05 10:51:06.284   2017-04-05 10:51:06.796   0 days, 0 hours, 0 minutes, 0 seconds
+444   Dan   1472   1612   -8.68%   2017-04-05 10:51:06.796   2017-04-05 10:51:07.288   0 days, 0 hours, 0 minutes, 0 seconds
+445   Calanus   6234   6350   -1.83%   2017-04-05 10:51:07.288   2017-04-05 10:51:07.855   0 days, 0 hours, 0 minutes, 0 seconds
+446   andnil   8594   8738   -1.65%   2017-04-05 10:51:07.856   2017-04-05 10:51:08.371   0 days, 0 hours, 0 minutes, 0 seconds
+447   aleckz   851   803   5.98%   2017-04-05 10:51:08.371   2017-04-05 10:51:08.849   0 days, 0 hours, 0 minutes, 0 seconds
+448   Chris Benard   1381   1445   -4.43%   2017-04-05 10:51:08.85   2017-04-05 10:51:09.311   0 days, 0 hours, 0 minutes, 0 seconds
+449   Mufaka   54   54   0.0%   2017-04-05 10:51:09.311   2017-04-05 10:51:09.86   0 days, 0 hours, 0 minutes, 0 seconds
+452   Tony Wong   1567   1567   0.0%   2017-04-05 10:51:09.877   2017-04-05 10:51:10.328   0 days, 0 hours, 0 minutes, 0 seconds
+453   omar   449   359   25.07%   2017-04-05 10:51:10.329   2017-04-05 10:51:10.863   0 days, 0 hours, 0 minutes, 0 seconds
+454   Mesidin   102   102   0.0%   2017-04-05 10:51:10.863   2017-04-05 10:51:11.346   0 days, 0 hours, 0 minutes, 0 seconds
+455   Bob G.   1   19   -94.74%   2017-04-05 10:51:11.347   2017-04-05 10:51:11.918   0 days, 0 hours, 0 minutes, 0 seconds
+456   wilhelmtell   25852   26004   -0.58%   2017-04-05 10:51:11.919   2017-04-05 10:51:12.399   0 days, 0 hours, 0 minutes, 0 seconds
+457   NilObject   7615   7914   -3.78%   2017-04-05 10:51:12.401   2017-04-05 10:51:12.884   0 days, 0 hours, 0 minutes, 0 seconds
+459   dlamblin   14027   14962   -6.25%   2017-04-05 10:51:12.889   2017-04-05 10:51:13.429   0 days, 0 hours, 0 minutes, 0 seconds
+462   Greg Case   11235   11245   -0.09%   2017-04-05 10:51:13.439   2017-04-05 10:51:13.899   0 days, 0 hours, 0 minutes, 0 seconds
+463   Amr   610   743   -17.9%   2017-04-05 10:51:13.899   2017-04-05 10:51:14.422   0 days, 0 hours, 0 minutes, 0 seconds
+464   Stan   386   426   -9.39%   2017-04-05 10:51:14.422   2017-04-05 10:51:14.938   0 days, 0 hours, 0 minutes, 0 seconds
+466   Andrew Hampton   592   712   -16.85%   2017-04-05 10:51:14.942   2017-04-05 10:51:15.429   0 days, 0 hours, 0 minutes, 0 seconds
+468   Chris Newman   177   445   -60.22%   2017-04-05 10:51:15.433   2017-04-05 10:51:15.975   0 days, 0 hours, 0 minutes, 0 seconds
+470   flipdoubt   4012   4272   -6.09%   2017-04-05 10:51:15.99   2017-04-05 10:51:16.427   0 days, 0 hours, 0 minutes, 0 seconds
+472   Mario   931   961   -3.12%   2017-04-05 10:51:16.43   2017-04-05 10:51:16.876   0 days, 0 hours, 0 minutes, 0 seconds
+473   sverrejoh   4264   4310   -1.07%   2017-04-05 10:51:16.876   2017-04-05 10:51:17.385   0 days, 0 hours, 0 minutes, 0 seconds
+475   Chris Roberts   7317   7673   -4.64%   2017-04-05 10:51:17.391   2017-04-05 10:51:17.985   0 days, 0 hours, 0 minutes, 0 seconds
+476   deceze   195561   208556   -6.23%   2017-04-05 10:51:17.986   2017-04-05 10:51:18.485   0 days, 0 hours, 0 minutes, 0 seconds
+477   dalelane   1343   1348   -0.37%   2017-04-05 10:51:18.485   2017-04-05 10:51:18.988   0 days, 0 hours, 0 minutes, 0 seconds
+479   Christopher Mahan   3057   4345   -29.64%   2017-04-05 10:51:18.992   2017-04-05 10:51:19.482   0 days, 0 hours, 0 minutes, 0 seconds
+480   mdy   303   243   24.69%   2017-04-05 10:51:19.483   2017-04-05 10:51:19.95   0 days, 0 hours, 0 minutes, 0 seconds
+481   Dragan Panjkov   2174   2174   0.0%   2017-04-05 10:51:19.951   2017-04-05 10:51:20.434   0 days, 0 hours, 0 minutes, 0 seconds
+482   Thej   520   655   -20.61%   2017-04-05 10:51:20.434   2017-04-05 10:51:20.933   0 days, 0 hours, 0 minutes, 0 seconds
+483   Nidonocu   3536   3640   -2.86%   2017-04-05 10:51:20.933   2017-04-05 10:51:21.436   0 days, 0 hours, 0 minutes, 0 seconds
+484   Tim Trueman   124   135   -8.15%   2017-04-05 10:51:21.436   2017-04-05 10:51:21.89   0 days, 0 hours, 0 minutes, 0 seconds
+486   grom   8065   8178   -1.38%   2017-04-05 10:51:21.893   2017-04-05 10:51:22.347   0 days, 0 hours, 0 minutes, 0 seconds
+487   Nick Masao   366   546   -32.97%   2017-04-05 10:51:22.347   2017-04-05 10:51:22.775   0 days, 0 hours, 0 minutes, 0 seconds
+488   Anthony Cramp   1591   1685   -5.58%   2017-04-05 10:51:22.775   2017-04-05 10:51:23.215   0 days, 0 hours, 0 minutes, 0 seconds
+489   Ch00k   5942   5999   -0.95%   2017-04-05 10:51:23.215   2017-04-05 10:51:23.68   0 days, 0 hours, 0 minutes, 0 seconds
+491   Conrad Halling   1   160   -99.37%   2017-04-05 10:51:23.683   2017-04-05 10:51:24.114   0 days, 0 hours, 0 minutes, 0 seconds
+492   CAD bloke   2128   3030   -29.77%   2017-04-05 10:51:24.115   2017-04-05 10:51:24.553   0 days, 0 hours, 0 minutes, 0 seconds
+493   lomaxx   30857   33308   -7.36%   2017-04-05 10:51:24.553   2017-04-05 10:51:25.002   0 days, 0 hours, 0 minutes, 0 seconds
+497   Chris Bartow   4501   4991   -9.82%   2017-04-05 10:51:25.011   2017-04-05 10:51:25.448   0 days, 0 hours, 0 minutes, 0 seconds
+499   bps   1   1   0.0%   2017-04-05 10:51:25.451   2017-04-05 10:51:25.889   0 days, 0 hours, 0 minutes, 0 seconds
+500   Jason Tennier   109   109   0.0%   2017-04-05 10:51:25.889   2017-04-05 10:51:26.325   0 days, 0 hours, 0 minutes, 0 seconds
+2017-04-05 10:51:26.33   0 days, 0 hours, 0 minutes, 27 seconds
+
+

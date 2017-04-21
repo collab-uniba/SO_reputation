@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> API Documentation </title>
+</head>
+<body>
+
+<h2>DISCLAIMER</h2>
+<p> The extracted reputation is only an estimate (with a ~10% error). The following rules are not considered:
+<ul>
+	<li> <i> Suggested edit is accepted: </i> +2 (up to +1000 total per user) </li>
+	<li> <i> Bounty awarded to your answer: </i> + full bounty amount </li>
+	<li> <i> One of your answers is awarded a bounty automatically: </i> + half of the bounty amount (see more details about how bounties work) </li>
+	<li> <i> Example you contributed to is voted up: </i> +5 </li>
+	<li> <i> Proposed change is approved: </i> +2 </li>
+	<li> <i> First time an answer that cites documentation you contributed to is upvoted: </i> +5 </li>
+	<li> <i> You place a bounty on a question: </i> - full bounty amount </li>
+	<li> <i> One of your posts receives 6 spam or offensive flags: </i> -100 </li>
+</ul>
+</p>
+
+<p>
+	<h3> Get Reputation </h3>
+	<code> GET /StackOverflowRESTfulWebService/api/StackOverflow/getReputation/:userId/:date </code>
+	<br> After entering <code> userId </code> and <code> date </code>, there will be returned the following results: user id, user's display name, estimated reputation, time elapsed.
+	<h3> Parameters </h3>
+
+	<table border = "1">
+		<thead>
+			<tr>
+				<th> Name </th>
+				<th> Type </th>
+				<th> Description </th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td> <code> userId </code> </td>
+				<td> <code> string </code> </td>
+				<td> The id associated with the user </td>
+			</tr>
+				<tr>
+					<td> <code> date </code> </td>
+					<td> <code> string </code> </td>
+					<td> Date which reputation refers </td>
+				</tr>
+		</tbody>
+	</table>
+</p>
+
+<p>
+	<h3> Response </h3>
+	<code> Status: 200 OK
+	<br>
+	{
+		<br>&nbsp;&nbsp;&nbsp;"id":"6",
+		<br>&nbsp;&nbsp;&nbsp;"name":"wax eagle",
+		<br>&nbsp;&nbsp;&nbsp;"reputation":"2702",
+		<br>&nbsp;&nbsp;&nbsp;"time":"0 days, 0 hours, 0 minutes, 20 seconds"
+	<br>
+	}
+	</code>
+</body>
+</html>

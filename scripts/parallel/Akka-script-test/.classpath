@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-actor_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-agent_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-camel_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-cluster-experimental_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-contrib_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-dataflow_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-durable-mailboxes-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-file-mailbox_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-kernel_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-mailboxes-common_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-remote_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-remote-tests-experimental_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-slf4j_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-testkit_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-transactor_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/akka-zeromq_2.10-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/camel-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/config-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/jna-3.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/jnr-constants-0.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/netty-3.5.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/scala-stm_2.10-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/uncommons-maths-1.2.2a.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/akka/zeromq-scala-binding_2.10-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/TESI/Akka/akka-2.1.4/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Francesco/Desktop/opencsv-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
