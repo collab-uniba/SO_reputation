@@ -59,26 +59,28 @@ Please, cite the following works if you intend to use our tool for your own rese
 } 
 ```
 
-## Sequential version 
+## Instructions
 
-### Requirements  
+#### Sequential version 
+
+##### Requirements  
 *	Python 3	
 	* PyMySQL version 0.7.9
 	
-### Usage
+##### Usage
 From comand line run:
 ```
 python reputation.py
 ```
 
-## Parallel version 
+#### Parallel version 
 
-### Requirements
+##### Requirements
 *	Java 8
 	* Akka version 2.1.4
 	* OpenCSV version 3.9
 
-### Usage Akka-script
+##### Usage Akka-script
 From comand line: 
 ```
 java -jar Akka-script-final.jar [UserId1] [date1] (...[UserIdN] [dateN]) -1 
@@ -96,12 +98,12 @@ where:
 * `n` is an integer representing the first n users in the dump
 * `date` is a string representing a date in the format YYYY-mm-dd
 
-## WebService version
+#### WebService version
 
-###
-API documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc).
+##### API
+Documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc).
 
-### Requirements
+##### Requirements
 *	Java 8
 	* OpenCSV version 3.9
 	* Jersey version 1.17.1
