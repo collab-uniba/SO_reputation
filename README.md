@@ -2,7 +2,7 @@
 
 A script that computes an approximation of the reputation gained by a StackOverflow user until a give date.
 
-The script can be test online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/StackOverflowReputation.jsp) (*Note: Be patient, it may take a few seconds.*).
+The script can be test online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/StackOverflowReputation.jsp) (**Note: Be patient, it may take a few seconds.**).
 
 Furthermore, you can use our webservice in your own app. Check the [RESTful API documentation page](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc) for more.
 
