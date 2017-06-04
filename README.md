@@ -21,6 +21,10 @@ The extracted reputation is only an estimate (with a ~10% error). The following 
 *   _You place a bounty on a question:_ - full bounty amount
 *   _One of your posts receives 6 spam or offensive flags:_ -100
 
+## Fair use policy
+Please, cite the following work if you intend to use our tool for your own research:
+>F. Calefato, F. Lanubile, M.C. Marasciulo, N. Novielli. MSR Challenge: “[Mining Successful Answers in Stack Overflow.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/MSR_2015_calefato_et_al.pdf),” In *Proc. 12th IEEE Working Conf. on Mining Software Repositories (MSR 2015)*, Florence, Italy, May 16-17, 2015.
+
 ## Sequential version 
 
 ### Requirements  
