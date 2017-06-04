@@ -2,7 +2,7 @@
 
 A script that computes an approximation of the reputation gained by a Stack Overflow user up to a given date.
 
-The script can be test online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/StackOverflowReputation.jsp) (**Note: Be patient, it may take a few seconds.**).
+The script can be test online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/StackOverflowReputation.jsp) (**Be patient, it may take a few seconds.**).
 
 Furthermore, you can use our webservice in your own app. Check the [RESTful API documentation page](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc) for more.
 
@@ -22,9 +22,26 @@ The extracted reputation is only an estimate (with a ~10% error). The following 
 *   _One of your posts receives 6 spam or offensive flags:_ -100
 
 ## Fair use policy
-Please, cite the following work if you intend to use our tool for your own research:
->F. Calefato, F. Lanubile, M.C. Marasciulo, N. Novielli. MSR Challenge: “[Mining Successful Answers in Stack Overflow.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/MSR_2015_calefato_et_al.pdf)” In *Proc. 12th IEEE Working Conf. on Mining Software Repositories (MSR 2015)*, Florence, Italy, May 16-17, 2015.
+Please, cite the following works if you intend to use our tool for your own research:
+> F. Calefato, F. Lanubile, N. Novielli. “[Moving to Stack Overflow: Best-Answer Prediction in Legacy Developer Forums.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/a13-calefato.pdf)” In *Proc. 10th Int’l Symposium on Empirical Softw. Eng. and Measurement (ESEM’16)*, Ciudad Real, Spain, Sept. 8-9, 2016, DOI:[10.1145/2961111.2962585](https://doi.org/10.1145/2961111.2962585).
+```latex
+@inproceedings{Calefato:2016:MSO:2961111.2962585,
+ author = {Calefato, Fabio and Lanubile, Filippo and Novielli, Nicole},
+ title = {Moving to Stack Overflow: Best-Answer Prediction in Legacy Developer Forums},
+ booktitle = {Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement}, series = {ESEM '16},
+ year = {2016},
+ isbn = {978-1-4503-4427-2},
+ location = {Ciudad Real, Spain},
+ pages = {13:1--13:10},
+ articleno = {13},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/2961111.2962585},
+ doi = {10.1145/2961111.2962585},
+ publisher = {ACM},
+} 
+```
 
+>F. Calefato, F. Lanubile, M.C. Marasciulo, N. Novielli. MSR Challenge: “[Mining Successful Answers in Stack Overflow.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/MSR_2015_calefato_et_al.pdf)” In *Proc. 12th IEEE Working Conf. on Mining Software Repositories (MSR 2015)*, Florence, Italy, May 16-17, 2015.
 ```latex
 @inproceedings{Calefato:2015:MSA:2820518.2820579,
  author = {Calefato, Fabio and Lanubile, Filippo and Marasciulo, Maria Concetta and Novielli, Nicole},
