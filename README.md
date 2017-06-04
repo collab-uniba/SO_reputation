@@ -89,7 +89,7 @@ where:
 * `UserIdX` is an integer representing a user id
 * `dateX` is a string representing a date in the format YYYY-mm-dd
 
-### Test Akka-script
+##### Test Akka-script
 From comand line:
 ```
 java -jar Akka-script-test.jar [n] [date].
