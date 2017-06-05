@@ -5,8 +5,13 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<title>Stack Overflow Reputation</title>
-	
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	       <script>
+			$(document).on('click', '.collapsible', function () {
+  				$(this).toggleClass('collapsed');
+			});
+
     	function loadDate()
         {
            	n = new Date();
@@ -243,131 +248,11 @@
         }
             
     </script>
-	
-	<style>
-select {
-  margin: 5px;
-  border: 1px solid #111;
-  background: transparent;
-  width: 150px;
-  padding: 5px 35px 5px 5px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  height: 34px;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  background: url(favicon.ico) 96% / 15% no-repeat #eee;
-}
-
-
-/* CAUTION: IE hackery ahead */
-
-
-select::-ms-expand { 
-    display: none; /* remove default arrow in IE 10 and 11 */
-}
-
-/* target Internet Explorer 9 to undo the custom arrow */
-@media screen and (min-width:0\0) {
-    select {
-        background:none\9;
-        padding: 5px\9;
-    }
-}
-		
-		.loader 
-		{
-    		border: 16px solid #f3f3f3; /* Light grey */
-    		border-top: 16px solid #3498db; /* Blue */
-    		border-radius: 50%;
-    		width: 45px;
-    		height: 45px;
-    		animation: spin 2s linear infinite;
-    		position: absolute;
-    		left: -100px;
-    		top: -150px;
-		}
-
-		@keyframes spin 
-		{
-    		0% { transform: rotate(0deg); }
-    		100% { transform: rotate(360deg); }
-		}
-		
-		h3
-		{
-			display: none;
-			position: absolute;
-			top: 50%;
-			left: 40%;
-			
-		}
-		
-		.button
-		{
-			display: inline-block;
-			border-radius: 4px;
-			background-color: white;
-			border: 2px solid black;
-			color: black;
-			text-align: center;
-			font-size: 14px;
-			padding: 20px;
-			width: 200px;
-			transition: all 0.5s;
-			cursor: pointer;
-			margin: 5px;	
-		}
-		
-		.button span
-		{
-			cursor: pointer;
-			display: inline-block;
-			position: relative;
-			transition: 0.5s;
-		}
-		
-		.button span:after
-		{
-			content: '\00bb';
-			position: absolute;
-			opacity: 0;
-			top: 0;
-			right: -20px;
-			transition: 0.5s;
-		}
-		
-		.button:hover span
-		{
-			padding-right: 25px;
-		}
-		
-		.button:hover span:after
-		{
-			opacity: 1;
-			right: 0;
-		}
-		
-		input[type=number] {
-    width: 12%;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 40px;
-    font-size: 16px;
-    background-color: white;
-    background-image: url(favicon.ico);
-    background-position: 120px 10px;
-    background-repeat: no-repeat;
-    padding: 20px 40px 12px 35px;
-}
-	
-	</style>
 </head>
 <body onload = "loadDate()">
 <form action = "ClientServlet" method = "post">
 <div align = "center"> 
-	Insert User Id: <input id = "userId_Id" type = "number" name = "userId"/>
+	Insert User Id: <input id = "userId_Id" type = "number" name = "userId" style="width: 200px"/>
 	<br> <br>
 	Select a date: 
 	
@@ -388,8 +273,19 @@ select::-ms-expand {
 	<div align = "center">
 	<button class = "button" onclick = "document.getElementById('userId_Id').value = ''"> <span> Reset </span> </button>
 	</div>
-	<br> <br> <br>
-	<h3 id = "hiddenText"> Please wait... </h3>
-	 <div id = "symbol" class="loader"> </div>
+	<div align = "center">
+		<div id = "symbol" class="loader"> </div>
+		<h3 id = "hiddenText"> Please wait... </h3>
+	</div>
+	<br> <br> <br> <br>
+	<div>
+		<p class="collapsible collapsed">
+			<b>DISCLAIMER</b><br>
+			This demo is just for demo purpose and, therefore, it is updated only to the Stack Overflow dump of <i><b>March 2015</b></i>. Besides, it computes an
+			approximation of actual reputation score. For more details, please visit
+			the <a href="https://github.com/collab-uniba/SO_reputation">project homepage</a> on GitHub.
+		</p>
+	</div>
+
 </body>
 </html>
