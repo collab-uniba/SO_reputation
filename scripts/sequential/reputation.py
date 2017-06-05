@@ -42,7 +42,7 @@ def RepresentsInt(s):
     except ValueError:
         return False
 
-database_name = "stackoverflow_march" 
+database_name = "stackoverflow_db_here" 
 
 badges_table = "Badges"
 comments_table = "Comments"
@@ -53,7 +53,7 @@ tags_table = "Tags"
 users_table = "Users"
 votes_table = "Votes"
 
-conn = pymysql.connect(host='localhost', user='root', password='5tartQu3ry1ng!') # create a connection to MySQL with arguments: host, username and password
+conn = pymysql.connect(host='localhost', user='userid', password='secret') # create a connection to MySQL with arguments: host, username and password
 main_cursor = conn.cursor() # create a cursor to execute query
 main_cursor.execute("use " + database_name) # access to database
 
