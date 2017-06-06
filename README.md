@@ -58,8 +58,19 @@ Please, cite the following works if you intend to use our tool for your own rese
  publisher = {IEEE Press},
 } 
 ```
+## DB Setup
+If you want to run your script locally or deploy the web service on your own server, you need to setup your MySQL db.
+From this point forward, we assume that you have already imported the [SO dump](https://archive.org/download/stackexchange) to a local MySQL db (there are several scripts that you can use if you do not know how to; see here and here, for example).
 
-## Instructions
+Then, go to the `db-setup/` folder and run in batch mode the sql script `setup.sql`:
+```bash
+shell> mysql -h host -u user -p < setup.sql
+Enter password: ********
+```
+
+This will create several table/views to speed up the querying process, plus some CSV files that will be needed by the web service. 
+
+## Running Instructions
 
 #### Sequential version 
 
