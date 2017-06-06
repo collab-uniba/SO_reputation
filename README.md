@@ -21,7 +21,7 @@ The extracted reputation is only an estimate (with a ~10% error). The following 
 *   _You place a bounty on a question:_ - full bounty amount
 *   _One of your posts receives 6 spam or offensive flags:_ -100
 
-## Fair use policy
+## Fair Use Policy
 Please, cite the following works if you intend to use our tool for your own research:
 > F. Calefato, F. Lanubile, N. Novielli. “[Moving to Stack Overflow: Best-Answer Prediction in Legacy Developer Forums.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/a13-calefato.pdf)” In *Proc. 10th Int’l Symposium on Empirical Softw. Eng. and Measurement (ESEM’16)*, Ciudad Real, Spain, Sept. 8-9, 2016, DOI:[10.1145/2961111.2962585](https://doi.org/10.1145/2961111.2962585).
 ```latex
