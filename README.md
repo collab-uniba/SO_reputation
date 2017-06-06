@@ -59,7 +59,7 @@ Please, cite the following works if you intend to use our tool for your own rese
 } 
 ```
 ## DB Setup
-If you want to run your script locally or deploy the web service on your own server, you need to setup your MySQL db.
+If you want to run your script locally or deploy the web service on your own server, you need to setup a MySQL database.
 From this point forward, we assume that you have already imported the [SO dump](https://archive.org/download/stackexchange) to a local MySQL db (there are several scripts that you can easily adapt to your purpose; see [here](https://gist.github.com/megansquire/877e028504c92e94192d) and [here](https://gist.github.com/tundo91/1e074af39d90629252a7df3fc1066397), for example).
 
 Then, go to the `db-setup/` folder and run in batch mode the sql script `setup.sql`:
@@ -70,7 +70,7 @@ Enter password: ********
 
 This will create several table/views to speed up the querying process, plus some CSV files, named `Question_Answer_?_(asc|desc).csv` and `Posts_Votes?_(asc|desc).csv`. 
 
-These CSV files are needed by the web service, therefore, whenever you create or update the SO dump, you should copy/move them to the subfolder `webservice/StackOverflowRESTfulWebService/WebContent/WEB-INF` where you deployed the web service.
+These CSV files are needed by the web service, therefore, whenever you create or update the SO database, you should copy/move them to the subfolder `webservice/StackOverflowRESTfulWebService/WebContent/WEB-INF` where you deployed the reputation web service.
 
 ## How to Run
 The scripts referenced in this section must be edited prior to execution, in order to customize the following variables:
