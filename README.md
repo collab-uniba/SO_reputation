@@ -74,8 +74,8 @@ These CSV files are needed by the web service, therefore, whenever you create or
 
 ## How to Run
 The scripts referenced in this section must be edited prior to execution, in order to customize the following variables:
-   * mysql username
-   * mysql password
+   * MySQL username
+   * MySQL password
    * SO database name
 
 #### Script: Sequential version 
