@@ -68,7 +68,8 @@ shell> mysql -h host -u user -p < setup.sql
 Enter password: ********
 ```
 
-This will create several table/views to speed up the querying process, plus some CSV files, named `Question_Answer_?_(asc|desc).csv` and `Posts_Votes?_(asc|desc).csv`. These CSV files are needed by the web service; therefore, whenever you create or update the SO dump, you should copy/move them to the subfolder `webservice/StackOverflowRESTfulWebService/WebContent/WEB-INF` where you deployed the web service.
+This will create several table/views to speed up the querying process, plus some CSV files, named `Question_Answer_?_(asc|desc).csv` and `Posts_Votes?_(asc|desc).csv`. 
+These CSV files are needed by the web service; therefore, whenever you create or update the SO dump, you should copy/move them to the subfolder `webservice/StackOverflowRESTfulWebService/WebContent/WEB-INF` where you deployed the web service.
 
 ## Running Instructions
 
