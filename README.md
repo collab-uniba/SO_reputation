@@ -69,11 +69,16 @@ Enter password: ********
 ```
 
 This will create several table/views to speed up the querying process, plus some CSV files, named `Question_Answer_?_(asc|desc).csv` and `Posts_Votes?_(asc|desc).csv`. 
-These CSV files are needed by the web service; therefore, whenever you create or update the SO dump, you should copy/move them to the subfolder `webservice/StackOverflowRESTfulWebService/WebContent/WEB-INF` where you deployed the web service.
 
-## Running Instructions
+These CSV files are needed by the web service, therefore, whenever you create or update the SO dump, you should copy/move them to the subfolder `webservice/StackOverflowRESTfulWebService/WebContent/WEB-INF` where you deployed the web service.
 
-#### Sequential version 
+## How to Run
+The scripts referenced in this section must be edited prior to execution, in order to customize the following variables:
+   * mysql username
+   * mysql password
+   * SO database name
+
+#### Script: Sequential version 
 
 ##### Requirements  
 *	Python 3	
@@ -85,7 +90,7 @@ From comand line run:
 python reputation.py
 ```
 
-#### Parallel version 
+#### Script: Parallel Version 
 
 ##### Requirements
 *	Java 8
@@ -110,7 +115,7 @@ where:
 * `n` is an integer representing the first n users in the dump
 * `date` is a string representing a date in the format YYYY-mm-dd
 
-#### WebService version
+#### Web Service
 
 ##### API
 Documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc).
@@ -120,5 +125,6 @@ Documentation is available [here](https://github.com/collab-uniba/SO_reputation/
 	* OpenCSV version 3.9
 	* Jersey version 1.17.1
 	* Jackson version 1.9.10
+*	Tomcat 8+
 
  
