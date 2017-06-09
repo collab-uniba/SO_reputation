@@ -62,8 +62,12 @@ If you want to run your script locally or deploy the web service on your own ser
 From this point forward, we assume that you have already imported the [SO dump](https://archive.org/download/stackexchange) to a local MySQL db (there are several scripts that you can easily adapt to your purpose; see [here](https://gist.github.com/megansquire/877e028504c92e94192d) and [here](https://gist.github.com/tundo91/1e074af39d90629252a7df3fc1066397), for example).
 
 Then, go to the `db-setup/` folder and run in batch mode the sql script `setup.sql`:
+*** NOTE: edit the first line of the .sql files to change the db name ***
 ```bash
 shell> mysql -h host -u user -p < setup.sql
+Enter password: ********
+
+shell> mysql -h host -u user -p < csv.sql
 Enter password: ********
 ```
 
