@@ -73,6 +73,7 @@ shell> mysql -h host -u user -p < csv.sql
 Enter password: ********
 
 **TODO** create script
+** MAX_USER_ID as var?? **
 shell>java -jar Ordinator_asc.jar Question_Answer.csv 2 MAX_USER_ID
 shell> mv new_file.csv Question_Answer_2_asc.csv
 shell>java -jar Ordinator_desc.jar Question_Answer.csv 2 MAX_USER_ID
@@ -137,7 +138,7 @@ where:
 #### Web Service
 
 ##### API
-Documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc).
+Documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Documentation).
 
 ##### Requirements
 *	Java 8
