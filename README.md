@@ -75,6 +75,7 @@ Enter password: ********
 **TODO** create script to automate this
 ** MAX_USER_ID must be queried from Users in the db and possibly stored in a var **
 ** Post_Votes? the '?' is 1-4 **
+** Question_Answer_? the '?' is 2,4 **
 shell>java -jar Ordinator_asc.jar Question_Answer.csv 2 MAX_USER_ID
 shell> mv new_file.csv Question_Answer_2_asc.csv
 shell>java -jar Ordinator_desc.jar Question_Answer.csv 2 MAX_USER_ID
