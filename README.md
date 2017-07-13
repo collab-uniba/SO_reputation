@@ -62,9 +62,30 @@ If you want to run your script locally or deploy the web service on your own ser
 From this point forward, we assume that you have already imported the [SO dump](https://archive.org/download/stackexchange) to a local MySQL db (there are several scripts that you can easily adapt to your purpose; see [here](https://gist.github.com/megansquire/877e028504c92e94192d) and [here](https://gist.github.com/tundo91/1e074af39d90629252a7df3fc1066397), for example).
 
 Then, go to the `db-setup/` folder and run in batch mode the sql script `setup.sql`:
+
+**NOTE**: edit the first line of the .sql files to change the db name
+
 ```bash
 shell> mysql -h host -u user -p < setup.sql
 Enter password: ********
+
+shell> mysql -h host -u user -p < csv.sql
+Enter password: ********
+
+**TODO** create script
+** MAX_USER_ID as var?? **
+shell>java -jar Ordinator_asc.jar Question_Answer.csv 2 MAX_USER_ID
+shell> mv new_file.csv Question_Answer_2_asc.csv
+shell>java -jar Ordinator_desc.jar Question_Answer.csv 2 MAX_USER_ID
+shell> mv new_file.csv Question_Answer_2_desc.csv
+shell>java -jar Ordinator_asc.jar Question_Answer.csv 4 MAX_USER_ID
+shell> mv new_file.csv Question_Answer_4_asc.csv
+shell>java -jar Ordinator_desc.jar Question_Answer.csv 4 MAX_USER_ID
+shell> mv new_file.csv Question_Answer_4_desc.csv
+shell>java -jar Ordinator_asc.jar Post_Votes?.csv 1 MAX_USER_ID
+shell> mv new_file.csv Post_Votes?_asc.csv
+shell>java -jar Ordinator_desc.jar Post_Votes?.csv 1 MAX_USER_ID
+shell> mv new_file.csv Post_Votes?_desc.csv
 ```
 
 This will create several table/views to speed up the querying process, plus some CSV files, named `Question_Answer_?_(asc|desc).csv` and `Posts_Votes?_(asc|desc).csv`. 
@@ -90,7 +111,7 @@ python reputation.py
 ```
 
 #### Script: Parallel Version 
-
+Need CSV files
 ##### Requirements
 *	Java 8
 	* Akka version 2.1.4
@@ -117,7 +138,7 @@ where:
 #### Web Service
 
 ##### API
-Documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc).
+Documentation is available [here](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Documentation).
 
 ##### Requirements
 *	Java 8
