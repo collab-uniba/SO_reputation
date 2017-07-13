@@ -1,0 +1,55 @@
+/* */
+use stackoverflow_march;
+
+SELECT *
+FROM Posts
+INTO OUTFILE './Posts.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT *
+FROM Users
+INTO OUTFILE './Users.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT max(id)
+FROM Users
+INTO OUTFILE './max_user_id.txt';
+
+SELECT *
+FROM Question_Answer
+INTO OUTFILE './Question_Answer.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT *
+FROM Posts_Votes1
+INTO OUTFILE './Posts_Votes1.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT *
+FROM Posts_Votes2
+INTO OUTFILE './Posts_Votes2.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT *
+FROM Posts_Votes3
+INTO OUTFILE './Posts_Votes3.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+
+SELECT *
+FROM Posts_Votes4
+INTO OUTFILE './Posts_Votes4.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
