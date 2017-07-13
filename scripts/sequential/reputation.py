@@ -128,78 +128,78 @@ while beginDate <= endDate:
     bounty_awards = 0
     acceptedAnswers = 0
 
-    main_cursor.execute("select count(*) from Question_Answer_index where ACreationDate between '" + searchDay1 + "' and '" + searchDay2 + "' and AOwnerUserId = " + str(user_id) + " and QOwnerUserId <> " + str(user_id))
+    main_cursor.execute("select count(*) from Question_Answer where ACreationDate between '" + searchDay1 + "' and '" + searchDay2 + "' and AOwnerUserId = " + str(user_id) + " and QOwnerUserId <> " + str(user_id))
     result = main_cursor.fetchone()
     result = result[0]
     acceptedAnswers = acceptedAnswers + result * 15 #answer is marked “accepted”: +15
 
-    main_cursor.execute("select count(*) from Question_Answer_index where ACreationDate between '" + searchDay1 + "' and '" + searchDay2 + "' and QOwnerUserId = " + str(user_id) + " and AOwnerUserId <> " + str(user_id))
+    main_cursor.execute("select count(*) from Question_Answer where ACreationDate between '" + searchDay1 + "' and '" + searchDay2 + "' and QOwnerUserId = " + str(user_id) + " and AOwnerUserId <> " + str(user_id))
     result = main_cursor.fetchone()
     result = result[0]
     acceptedAnswers = acceptedAnswers + result * 2 #(+2 to acceptor)
 
-    main_cursor.execute("select count(*) from Posts_Votes1_index where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
+    main_cursor.execute("select count(*) from Posts_Votes1 where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
     upVotes = main_cursor.fetchone()
     upVotes = upVotes[0]
     daily_points = daily_points + upVotes * 5 #question is voted up: +5
 
-    main_cursor.execute("select count(*) from Posts_Votes2_index where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
+    main_cursor.execute("select count(*) from Posts_Votes2 where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
     downVotes = main_cursor.fetchone()
     downVotes = downVotes[0]
     daily_points = daily_points + downVotes * -2 #your question is voted down: -2
 
-    main_cursor.execute("select count(*) from Posts_Votes3_index where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
+    main_cursor.execute("select count(*) from Posts_Votes3 where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
     upVotes = main_cursor.fetchone()
     upVotes = upVotes[0]
     daily_points = daily_points + upVotes * 10 #answer is voted up: +10
 
-    main_cursor.execute("select count(*) from Posts_Votes4_index where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
+    main_cursor.execute("select count(*) from Posts_Votes4 where CreationDate = '" + str(beginDate) + "' and OwnerUserId = " + str(user_id))
     downVotes = main_cursor.fetchone()
     downVotes = downVotes[0]
     daily_points = daily_points + downVotes * -2 #your answer is voted down: -2
 
-    main_cursor.execute("select count(*) from PostHistory_24_index where CreationDate between '" + searchDay1 + "' and '" + searchDay2 + "' and UserId = " + str(user_id))
-    edits_accepted = main_cursor.fetchone()
-    edits_accepted = edits_accepted[0]
-    temp = edit_limit
-    edit_limit = edit_limit + edits_accepted * 2
-    if edit_limit <= 1000:
-        daily_points = daily_points + edits_accepted * 2 #suggested edit is accepted: +2 (up to +1000 total per user)
-    elif temp < 1000:
-        daily_points = daily_points + (1000 - temp)
+    # main_cursor.execute("select count(*) from PostHistory_24_index where CreationDate between '" + searchDay1 + "' and '" + searchDay2 + "' and UserId = " + str(user_id))
+    # edits_accepted = main_cursor.fetchone()
+    # edits_accepted = edits_accepted[0]
+    # temp = edit_limit
+    # edit_limit = edit_limit + edits_accepted * 2
+    # if edit_limit <= 1000:
+    #     daily_points = daily_points + edits_accepted * 2 #suggested edit is accepted: +2 (up to +1000 total per user)
+    # elif temp < 1000:
+    #     daily_points = daily_points + (1000 - temp)
         
-    main_cursor.execute("select AcceptedAnswerId, BountyAmount from Posts_Votes5_index where CreationDate = '" + str(beginDate) + "' and UserId <> " + str(user_id))
-    result_set = main_cursor.fetchone()
-    while result_set != None:
-        answer_id, bounty_amount = result_set 
-        cursor.execute("select OwnerUserId from " + posts_table + " where Id = " + str(answer_id))
-        author_id = cursor.fetchone()
-        if author_id != None:
-            author_id = author_id[0]
-            if author_id == user_id and bounty_amount != None:
-                bounty_awards = bounty_awards + bounty_amount #bounty awarded to your answer: + full bounty amount
-        result_set = main_cursor.fetchone()
+    # main_cursor.execute("select AcceptedAnswerId, BountyAmount from Posts_Votes5_index where CreationDate = '" + str(beginDate) + "' and UserId <> " + str(user_id))
+    # result_set = main_cursor.fetchone()
+    # while result_set != None:
+    #     answer_id, bounty_amount = result_set 
+    #     cursor.execute("select OwnerUserId from " + posts_table + " where Id = " + str(answer_id))
+    #     author_id = cursor.fetchone()
+    #     if author_id != None:
+    #         author_id = author_id[0]
+    #         if author_id == user_id and bounty_amount != None:
+    #             bounty_awards = bounty_awards + bounty_amount #bounty awarded to your answer: + full bounty amount
+    #     result_set = main_cursor.fetchone()
 
-    main_cursor.execute("select Id, BountyAmount from Posts_Votes6_index where CreationDate = '" + str(beginDate) + "' and UserId <> " + str(user_id))
-    result_set = main_cursor.fetchone()
-    while result_set != None:
-        question_id, bounty_amount = result_set 
-        cursor.execute("select OwnerUserId, Score from Posts_2_index where ParentId = " + str(question_id) + " and Score = (select max(Score) from Posts_2 where ParentId = " + str(question_id) + ") order by CreationDate asc")                                      
-        result_set2 = cursor.fetchone()
-        if result_set2 != None:
-            author_id, score = result_set2
-            if author_id == user_id and score >= 2 and bounty_amount != None:
-                bounty_awards = bounty_awards + bounty_amount / 2 #one of your answers is awarded a bounty automatically: + half of the bounty amount
-        result_set = main_cursor.fetchone()
+    # main_cursor.execute("select Id, BountyAmount from Posts_Votes6_index where CreationDate = '" + str(beginDate) + "' and UserId <> " + str(user_id))
+    # result_set = main_cursor.fetchone()
+    # while result_set != None:
+    #     question_id, bounty_amount = result_set 
+    #     cursor.execute("select OwnerUserId, Score from Posts_2_index where ParentId = " + str(question_id) + " and Score = (select max(Score) from Posts_2 where ParentId = " + str(question_id) + ") order by CreationDate asc")                                      
+    #     result_set2 = cursor.fetchone()
+    #     if result_set2 != None:
+    #         author_id, score = result_set2
+    #         if author_id == user_id and score >= 2 and bounty_amount != None:
+    #             bounty_awards = bounty_awards + bounty_amount / 2 #one of your answers is awarded a bounty automatically: + half of the bounty amount
+    #     result_set = main_cursor.fetchone()
 
-    main_cursor.execute("select sum(BountyAmount) from Votes_8_index where CreationDate = '" + str(beginDate) + "' and UserId = " + str(user_id))
-    bounty = main_cursor.fetchone()
-    bounty = bounty[0]
-    if bounty != None:
-        daily_points = daily_points - bounty #you place a bounty on a question: − full bounty amount
+    # main_cursor.execute("select sum(BountyAmount) from Votes_8_index where CreationDate = '" + str(beginDate) + "' and UserId = " + str(user_id))
+    # bounty = main_cursor.fetchone()
+    # bounty = bounty[0]
+    # if bounty != None:
+    #     daily_points = daily_points - bounty #you place a bounty on a question: − full bounty amount
 
-    if daily_points > 200: #You can earn a maximum of 200 reputation per day
-        daily_points = 200
+    # if daily_points > 200: #You can earn a maximum of 200 reputation per day
+    #     daily_points = 200
 
     daily_points = daily_points + acceptedAnswers #accepted answers are not subject to the daily reputation limit
 
@@ -228,13 +228,13 @@ while offensive != None:
         estimated_reputation = estimated_reputation - 100 #one of your posts receives 6 offensive flags: −100
     offensive = main_cursor.fetchone()
     
-main_cursor.execute("select count(VoteTypeId) from Posts_Votes8_index where OwnerUserId = " + str(user_id) + " group by PostId")
-spam = main_cursor.fetchone()
-while spam != None:
-    spam = spam[0]
-    if spam >= 6:
-        estimated_reputation = estimated_reputation - 100 #one of your posts receives 6 spam flags: −100
-    spam = main_cursor.fetchone()
+# main_cursor.execute("select count(VoteTypeId) from Posts_Votes8_index where OwnerUserId = " + str(user_id) + " group by PostId")
+# spam = main_cursor.fetchone()
+# while spam != None:
+#     spam = spam[0]
+#     if spam >= 6:
+#         estimated_reputation = estimated_reputation - 100 #one of your posts receives 6 spam flags: −100
+#     spam = main_cursor.fetchone()
 
 if estimated_reputation < 1:
     estimated_reputation = 1
