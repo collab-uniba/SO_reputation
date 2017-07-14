@@ -1,5 +1,4 @@
-/* */
-use stackoverflow_march;
+/* use stackoverflow_march; */
 
 drop table if exists Question;
 create table Question as select Id 'QId', AcceptedAnswerId 'QAcceptedAnswerId', OwnerUserId 'QOwnerUserId' from Posts where Posts.PostTypeId = 1 and Posts.AcceptedAnswerId is not null and Posts.CommunityOwnedDate is null;

@@ -1,5 +1,4 @@
-/* */
-use stackoverflow_march;
+/* use stackoverflow_march; */
 
 SELECT *
 FROM Posts
