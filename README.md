@@ -62,7 +62,9 @@ If you want to run your script locally or deploy the web service on your own ser
 From this point forward, we assume that you have already imported the [SO dump](https://archive.org/download/stackexchange) to a local MySQL db (there are several scripts that you can easily adapt to your purpose; see [here](https://gist.github.com/megansquire/877e028504c92e94192d) and [here](https://gist.github.com/tundo91/1e074af39d90629252a7df3fc1066397), for example).
 
 Then, go to the `scripts/db-setup/` folder and run in batch mode the sql script `setup.sh`:
-
+```
+$ sh setup.sh
+```
 **NOTE**: Before running, edit the first lines of the file to change the following information:
 
 ```bash
@@ -90,7 +92,7 @@ The scripts referenced in this section must be edited prior to execution, in ord
 ##### Usage
 From comand line run:
 ```
-python reputation.py
+$ python reputation.py
 ```
 
 #### Script: Parallel Version 
@@ -103,7 +105,7 @@ Need CSV files
 ##### Usage Akka-script
 From comand line: 
 ```
-java -jar Akka-script-final.jar [UserId1] [date1] (...[UserIdN] [dateN]) -1 
+$ java -jar Akka-script-final.jar [UserId1] [date1] (...[UserIdN] [dateN]) -1 
 ```
 where:
 * `UserIdX` is an integer representing a user id
@@ -112,7 +114,7 @@ where:
 ##### Test Akka-script
 From comand line:
 ```
-java -jar Akka-script-test.jar [n] [date].
+$ java -jar Akka-script-test.jar [n] [date].
 ```
 where:
 * `n` is an integer representing the first n users in the dump
