@@ -5,7 +5,11 @@ A script that computes an approximation of the reputation gained by a Stack Over
 The script can be tested online at this [address](http://ugres.di.uniba.it:9090/StackOverflowClient/StackOverflowReputation.jsp) (**Be patient, it may take a few seconds**). Furthermore, you can use it as a web service in your own app. Check the [RESTful API documentation page](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc) for more.
 
 
-**NOTE**: You will need to install [Git LFS](https://git-lfs.github.com) extension to check out this project.
+**NOTE**: You will need to install [Git LFS](https://git-lfs.github.com) extension to check out this project. Once installed and initialized, simply run:
+
+```bash
+$ git lfs clone https://github.com/collab-uniba/SO_reputation.git
+```
 
 ## DISCLAIMER
 
