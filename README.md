@@ -61,7 +61,7 @@ Please, cite the following works if you intend to use our tool for your own rese
 If you want to run your script locally or deploy the web service on your own server, you need to setup a MySQL database.
 From this point forward, we assume that you have already imported the [SO dump](https://archive.org/download/stackexchange) to a local MySQL db (there are several scripts that you can easily adapt to your purpose; see [here](https://gist.github.com/megansquire/877e028504c92e94192d) and [here](https://gist.github.com/tundo91/1e074af39d90629252a7df3fc1066397), for example).
 
-Then, go to the `db-setup/` folder and run in batch mode the sql script `setup.sql`:
+Then, go to the `scripts/db-setup/` folder and run in batch mode the sql script `setup.sql`:
 
 **NOTE**: edit the first line of the .sql files to change the db name
 
@@ -72,8 +72,10 @@ Enter password: ********
 shell> mysql -h host -u user -p < csv.sql
 Enter password: ********
 
-**TODO** create script
-** MAX_USER_ID as var?? **
+**TODO** create script to automate this
+** MAX_USER_ID must be queried from Users in the db and possibly stored in a var **
+** Post_Votes? the '?' is 1-4 **
+** Question_Answer_? the '?' is 2,4 **
 shell>java -jar Ordinator_asc.jar Question_Answer.csv 2 MAX_USER_ID
 shell> mv new_file.csv Question_Answer_2_asc.csv
 shell>java -jar Ordinator_desc.jar Question_Answer.csv 2 MAX_USER_ID
