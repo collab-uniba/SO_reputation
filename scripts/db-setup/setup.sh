@@ -1,7 +1,7 @@
 #!/bin/bash
 MYSQL_USER=root
 MYSQL_PASS=5tartQu3ry1ng!
-MYSQL_SO_DB=stackoverflow_march
+MYSQL_SO_DB=stackoverflow_2016_01
 
 echo "Creating tables and indexes (be patient, it does take a while...)"
 mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" < setup.sql
@@ -9,8 +9,9 @@ mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" < setu
 echo "Creating CSV files  (be patient, this also takes a while...)"
 mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" < csv.sql
 
-MAX_USER_ID=$(mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" -e "select max id from Users")
-
+MAX_USER_ID=$(mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" -e "select max(Id) from Users;")
+stringarray=($MAX_USER_ID)
+MAX_USER_ID=${stringarray[1]}
 
 # Question_Answer_? the '?' is 2,4 
 
