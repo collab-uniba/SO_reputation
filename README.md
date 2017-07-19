@@ -105,7 +105,7 @@ $ python reputation.py
 #### Script: Parallel Version 
 Need CSV files
 ##### Requirements
-*	Java 8
+*	Java 8+
 	* Akka version 2.1.4
 	* OpenCSV version 3.9
 
