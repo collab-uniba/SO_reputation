@@ -2,53 +2,55 @@
 
 SELECT *
 FROM Posts
-INTO OUTFILE './Posts.csv'
+INTO OUTFILE '/tmp/Posts.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
 
 SELECT *
 FROM Users
-INTO OUTFILE './Users.csv'
+INTO OUTFILE '/tmp/Users.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
 
+/*
 SELECT max(id)
 FROM Users
 INTO OUTFILE './max_user_id.txt';
+*/
 
 SELECT *
 FROM Question_Answer
-INTO OUTFILE './Question_Answer.csv'
+INTO OUTFILE '/tmp/Question_Answer.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
 
 SELECT *
 FROM Posts_Votes1
-INTO OUTFILE './Posts_Votes1.csv'
+INTO OUTFILE '/tmp/Posts_Votes1.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
 
 SELECT *
 FROM Posts_Votes2
-INTO OUTFILE './Posts_Votes2.csv'
+INTO OUTFILE '/tmp/Posts_Votes2.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
 
 SELECT *
 FROM Posts_Votes3
-INTO OUTFILE './Posts_Votes3.csv'
+INTO OUTFILE '/tmp/Posts_Votes3.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
 
 SELECT *
 FROM Posts_Votes4
-INTO OUTFILE './Posts_Votes4.csv'
+INTO OUTFILE '/tmp/Posts_Votes4.csv'
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
