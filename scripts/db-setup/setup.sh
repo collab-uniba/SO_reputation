@@ -8,6 +8,7 @@ mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" < setu
 
 echo "Creating CSV files  (be patient, this also takes a while...)"
 mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" < csv.sql
+mv /tmp/Users.csv .
 
 MAX_USER_ID=$(mysql -u "$MYSQL_USER" --password="$MYSQL_PASS" --database="$MYSQL_SO_DB" -e "select max(Id) from Users;")
 stringarray=($MAX_USER_ID)
