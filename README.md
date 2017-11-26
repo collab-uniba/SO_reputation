@@ -28,7 +28,7 @@ The extracted reputation is only an estimate (with a ~10% error). The following 
 Please, cite the following works if you intend to use our tool for your own research:
 > F. Calefato, F. Lanubile, N. Novielli. “[Moving to Stack Overflow: Best-Answer Prediction in Legacy Developer Forums.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/a13-calefato.pdf)” In *Proc. 10th Int’l Symposium on Empirical Softw. Eng. and Measurement (ESEM’16)*, Ciudad Real, Spain, Sept. 8-9, 2016, DOI:[10.1145/2961111.2962585](https://doi.org/10.1145/2961111.2962585).
 ```latex
-@inproceedings{Calefato:2016:MSO:2961111.2962585,
+@inproceedings{Calefato_esem2016,
  author = {Calefato, Fabio and Lanubile, Filippo and Novielli, Nicole},
  title = {Moving to Stack Overflow: Best-Answer Prediction in Legacy Developer Forums},
  booktitle = {Proc. 10th ACM/IEEE Int'l Symposium on Empirical Software Engineering and Measurement}, 
@@ -47,7 +47,7 @@ Please, cite the following works if you intend to use our tool for your own rese
 
 >F. Calefato, F. Lanubile, M.C. Marasciulo, N. Novielli. MSR Challenge: “[Mining Successful Answers in Stack Overflow.](http://collab.di.uniba.it/fabio/wp-content/uploads/sites/5/2014/05/MSR_2015_calefato_et_al.pdf)” In *Proc. 12th IEEE Working Conf. on Mining Software Repositories (MSR 2015)*, Florence, Italy, May 16-17, 2015.
 ```latex
-@inproceedings{Calefato:2015:MSA:2820518.2820579,
+@inproceedings{Calefato_msr2015,
  author = {Calefato, Fabio and Lanubile, Filippo and Marasciulo, Maria Concetta and Novielli, Nicole},
  title = {Mining Successful Answers in Stack Overflow},
  booktitle = {Proc. 12th Working Conf. on Mining Software Repositories},
