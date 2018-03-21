@@ -2,7 +2,7 @@
 
 A script/RESTful API to compute an approximation of the reputation gained by a Stack Overflow user up to a given date.
 
-The script can be tested online at this [address](http://193.204.187.161:9090/StackOverflowClient/StackOverflowReputation.jsp) (**Be patient, it may take a few seconds**). Furthermore, you can use it as a web service in your own app. Check the [RESTful API documentation page](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Doc) for more.
+The script can be tested online at this [address](http://193.204.187.161:9090/StackOverflowClient/StackOverflowReputation.jsp) (**Be patient, it may take a few seconds**). Furthermore, you can use it as a web service in your own app. Check the [RESTful API documentation page](https://github.com/collab-uniba/SO_reputation/wiki/RESTful-API-Documentation) for more.
 
 
 **NOTE**: You will need to install [Git LFS](https://git-lfs.github.com) extension to check out this project. Once installed and initialized, simply run:
